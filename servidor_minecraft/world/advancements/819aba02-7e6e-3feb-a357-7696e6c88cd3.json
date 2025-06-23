@@ -227,13 +227,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2025-06-23 05:48:33 +0000",
-      "minecraft:stony_shore": "2025-06-23 05:52:09 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-06-23 05:48:32 +0000"
@@ -288,15 +281,52 @@
     },
     "done": true
   },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-06-23 05:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-06-23 05:48:33 +0000",
+      "minecraft:stony_shore": "2025-06-23 05:52:09 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-06-23 05:48:33 +0000"
     },
     "done": true
   },
-  "comforts:hammock_orange": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_the_recipe": "2025-06-23 05:48:32 +0000"
+      "get_stone": "2025-06-23 06:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-23 06:11:36 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-06-23 06:10:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-06-23 06:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-23 06:10:27 +0000"
     },
     "done": true
   },
