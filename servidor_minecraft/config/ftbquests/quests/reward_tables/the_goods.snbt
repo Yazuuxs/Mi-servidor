@@ -1,0 +1,394 @@
+{
+	id: "1FABD2DE607B34D8"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "reliquary:mercy_cross"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "reliquary:emperor_chalice" }
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					Parent: {
+						Items: [{
+							amount: 0
+							filter: {
+								Count: 1b
+								id: "minecraft:ender_pearl"
+							}
+						}]
+					}
+				}
+				id: "reliquary:ender_staff"
+				tag: {
+					count: 0
+				}
+			}
+		}
+		{ item: "reliquary:fortune_coin" }
+		{ item: "reliquary:glacial_staff" }
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					Parent: {
+						Items: [{
+							amount: 0
+							filter: {
+								Count: 1b
+								id: "minecraft:bone_meal"
+							}
+						}]
+					}
+				}
+				id: "reliquary:harvest_rod"
+			}
+		}
+		{ item: "reliquary:ice_magus_rod" }
+		{ item: "reliquary:infernal_chalice" }
+		{ item: "reliquary:infernal_claws" }
+		{ item: "reliquary:midas_touchstone" }
+		{ item: "reliquary:pyromancer_staff" }
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					Parent: {
+						Items: [{
+							amount: 0
+							filter: {
+								Count: 1b
+								id: "minecraft:feather"
+							}
+						}]
+					}
+				}
+				id: "reliquary:rending_gale"
+			}
+		}
+		{ item: "reliquary:rod_of_lyssa" }
+		{ item: "reliquary:sojourner_staff" }
+		{ item: "reliquary:witherless_rose" }
+		{
+			item: {
+				Count: 1b
+				id: "reliquary:serpent_staff"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "reliquary:twilight_cloak" }
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_longfall"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_creeper"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_stone"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_antipotion"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "cyclic:charm_stealthpotion" }
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_boostpotion"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_crit"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_invisible"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_magicdefense"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_starvation"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_venom"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_water"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_speed"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:antigravity"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_void"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_antidote"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_fire"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_wither"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_knockback_resistance"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_luck"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_attack_speed"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "cyclic:charm_xp_speed" }
+		{ item: "cyclic:charm_xp_blocker" }
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:prospector"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "cyclic:spawner_seeker" }
+		{ item: "cyclic:spawner_seeker" }
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:glove_climb"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:flippers"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:ice_scepter"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:fire_scepter"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:lightning_scepter"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "cyclic:ender_bag" }
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:evoker_fang"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:elevation_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:teleport_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:antimatter_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:mattock"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					Parent: {
+						energy: {
+							energy: 0
+						}
+					}
+				}
+				id: "cyclic:laser_cannon"
+				tag: {
+					energytt: 0
+					energyttmax: 16000
+				}
+			}
+		}
+	]
+	title: "The Goods"
+}

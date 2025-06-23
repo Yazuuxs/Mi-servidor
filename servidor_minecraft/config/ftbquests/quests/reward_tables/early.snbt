@@ -1,0 +1,17 @@
+{
+	id: "617D169F2BC3AD52"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ count: 6, item: "minecraft:iron_ingot" }
+		{ count: 6, item: "minecraft:raw_gold" }
+		{ count: 6, item: "minecraft:raw_copper" }
+		{ item: "minecraft:diamond" }
+		{ count: 16, item: "minecraft:coal" }
+		{ count: 16, item: "minecraft:lapis_lazuli" }
+		{ count: 16, item: "minecraft:redstone" }
+		{ item: "minecraft:ender_pearl" }
+		{ count: 6, item: "minecraft:bone" }
+	]
+	title: "Starter Items"
+}
