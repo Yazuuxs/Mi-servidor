@@ -73,3 +73,6 @@
 [23:35:03] [Server thread/INFO]: [Not Secure] <Yazuuxs> me voy a lavar platos
 [23:39:03] [Server thread/INFO]: DemianWeinZ has made the advancement [Sweet Dreams]
 [23:39:24] [Server thread/INFO]: [Not Secure] <DemianWeinZ> boeee
+[23:40:54] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
+[23:40:54] [Server thread/INFO]: Yazuuxs left the game
+[23:40:54] [Server thread/WARN]: handleDisconnection() called twice
