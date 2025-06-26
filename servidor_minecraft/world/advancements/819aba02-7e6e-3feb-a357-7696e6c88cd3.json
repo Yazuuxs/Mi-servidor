@@ -505,6 +505,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-26 00:01:08 +0000",
+      "cooked_cod": "2025-06-26 01:14:56 +0000",
       "cooked_beef": "2025-06-26 00:18:00 +0000"
     },
     "done": false
@@ -538,7 +539,8 @@
       "minecraft:skeleton": "2025-06-26 00:18:15 +0000",
       "minecraft:spider": "2025-06-26 00:41:18 +0000",
       "minecraft:zombie": "2025-06-26 00:12:02 +0000",
-      "minecraft:creeper": "2025-06-26 00:45:17 +0000"
+      "minecraft:creeper": "2025-06-26 00:45:17 +0000",
+      "minecraft:drowned": "2025-06-26 01:10:57 +0000"
     },
     "done": false
   },
@@ -782,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-26 01:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-06-26 01:04:34 +0000"
@@ -797,6 +805,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-26 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-26 01:15:11 +0000"
     },
     "done": true
   },
@@ -872,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-26 01:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-06-26 00:34:42 +0000"
@@ -896,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-26 01:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-26 00:41:30 +0000"
@@ -905,6 +931,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-26 00:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-26 01:15:11 +0000"
     },
     "done": true
   },
@@ -956,6 +988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-26 01:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-26 00:45:18 +0000"
@@ -971,6 +1009,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-26 01:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-26 01:15:11 +0000"
     },
     "done": true
   },
@@ -1001,6 +1045,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-26 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-26 01:14:47 +0000"
     },
     "done": true
   },
