@@ -37,3 +37,9 @@
 [01:23:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> -360
 [01:23:17] [Server thread/INFO]: [Not Secure] <Yazuuxs> 213
 [01:29:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-446, y=64, z=97} jh{x=-446, y=62, z=97}
+[01:41:24] [Server thread/INFO]: [Not Secure] <Yazuuxs> gil el q duerme
+[01:45:21] [Server thread/INFO]: DemianWeinZ lost connection: Disconnected
+[01:45:21] [Server thread/INFO]: DemianWeinZ left the game
+[01:45:21] [Server thread/WARN]: handleDisconnection() called twice
+[01:45:46] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:51762] logged in with entity id 18257 at (-651.7970679126198, 70.0, -289.81448174728723)
+[01:45:46] [Server thread/INFO]: DemianWeinZ joined the game
