@@ -60,3 +60,17 @@
 [02:15:31] [Server thread/INFO]: DemianWeinZ joined the game
 [02:17:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=65, z=-393} jh{x=-592, y=63, z=-393}
 [02:22:11] [Server thread/INFO]: DemianWeinZ has made the advancement [A Seedy Place]
+[02:35:55] [Server thread/WARN]: DemianWeinZ moved too quickly! -4.174944330473409,0.0,-9.246522021875421
+[02:36:13] [Server thread/INFO]: DemianWeinZ was slain by Zombie
+[02:40:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-591, y=64, z=-380} jh{x=-590, y=64, z=-380}
+[02:40:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=66, z=-378} jh{x=-593, y=64, z=-378}
+[02:40:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=66, z=-378} jh{x=-593, y=64, z=-378}
+[02:40:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-599, y=66, z=-376} jh{x=-600, y=64, z=-376}
+[02:40:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-597, y=65, z=-374} jh{x=-600, y=64, z=-373}
+[02:40:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-598, y=64, z=-377} jh{x=-598, y=64, z=-376}
+[02:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-602, y=65, z=-376} jh{x=-602, y=64, z=-375}
+[02:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-599, y=64, z=-379} jh{x=-600, y=63, z=-378}
+[02:40:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=65, z=-383} jh{x=-591, y=63, z=-384}
+[02:40:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=65, z=-386} jh{x=-591, y=63, z=-387}
+[02:40:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=64, z=-391} jh{x=-588, y=63, z=-390}
+[02:40:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=64, z=-391} jh{x=-588, y=63, z=-390}
