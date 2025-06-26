@@ -1,78 +1,23 @@
-[23:20:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:20:38] [ServerMain/INFO]: No existing world data, creating new world
-[23:20:39] [ServerMain/INFO]: Loaded 1337 recipes
-[23:20:39] [ServerMain/INFO]: Loaded 1448 advancements
-[23:20:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:20:39] [Server thread/INFO]: Loading properties
-[23:20:39] [Server thread/INFO]: Default game type: SURVIVAL
-[23:20:39] [Server thread/INFO]: Generating keypair
-[23:20:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:20:39] [Server thread/INFO]: Using epoll channel type
-[23:20:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:20:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:20:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:20:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:20:39] [Server thread/INFO]: Preparing level "world"
-[23:20:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:20:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[23:20:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[23:20:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[23:20:49] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[23:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[23:20:50] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[23:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[23:20:51] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[23:20:51] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[23:20:52] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[23:20:52] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[23:20:53] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[23:20:53] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[23:20:54] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[23:20:54] [Server thread/INFO]: Time elapsed: 6648 ms
-[23:20:54] [Server thread/INFO]: Done (14.786s)! For help, type "help"
-[23:21:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:22:07] [Server thread/INFO]: Yazuuxs[/172.29.245.172:65157] logged in with entity id 39 at (5.5, 82.0, 6.5)
-[23:22:07] [Server thread/INFO]: Yazuuxs joined the game
-[23:22:23] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:59657] logged in with entity id 278 at (8.5, 83.0, -1.5)
-[23:22:23] [Server thread/INFO]: DemianWeinZ joined the game
-[23:22:24] [Worker-Main-4/ERROR]: Failed to fetch mob spawner entity at (-113, -26, -149)
-[23:23:26] [Server thread/INFO]: [Not Secure] <DemianWeinZ> hola
-[23:23:36] [Server thread/INFO]: [Not Secure] <DemianWeinZ> sigo siendo negro?
-[23:23:37] [Server thread/INFO]: [Not Secure] <Yazuuxs> hola
-[23:23:38] [Server thread/INFO]: [Not Secure] <Yazuuxs> si
-[23:23:59] [Server thread/INFO]: [Not Secure] <Yazuuxs> el goay
-[23:27:30] [Server thread/INFO]: Yazuuxs has made the advancement [Stone Age]
-[23:27:56] [Server thread/INFO]: DemianWeinZ has made the advancement [Stone Age]
-[23:28:23] [Server thread/INFO]: Yazuuxs has made the advancement [Getting an Upgrade]
-[23:28:45] [Server thread/INFO]: DemianWeinZ has made the advancement [Getting an Upgrade]
-[23:28:46] [Server thread/INFO]: [Not Secure] <Yazuuxs> tengo carbon por si queres
-[23:30:20] [Server thread/INFO]: [Not Secure] <Yazuuxs> speedrun de hierro
-[23:30:47] [Server thread/INFO]: Yazuuxs has made the advancement [Acquire Hardware]
-[23:31:22] [Server thread/INFO]: [Not Secure] <DemianWeinZ> donde andas?
-[23:31:53] [Server thread/INFO]: [Not Secure] <Yazuuxs> -46 91
-[23:32:19] [Server thread/INFO]: [Not Secure] <DemianWeinZ> chistoso
-[23:32:23] [Server thread/INFO]: [Not Secure] <Yazuuxs> q tiene
-[23:32:26] [Server thread/INFO]: [Not Secure] <Yazuuxs> estoy ahi xd
-[23:32:29] [Server thread/INFO]: [Not Secure] <DemianWeinZ> no tengo las coors
-[23:32:46] [Server thread/INFO]: [Not Secure] <DemianWeinZ> como las activo?
-[23:32:50] [Server thread/INFO]: [Not Secure] <Yazuuxs> f3
-[23:32:55] [Server thread/INFO]: [Not Secure] <Yazuuxs> me cai a una cueva ahora
-[23:33:08] [Server thread/INFO]: [Not Secure] <DemianWeinZ> t
-[23:33:12] [Server thread/INFO]: [Not Secure] <Yazuuxs> -47 38
-[23:33:21] [Server thread/INFO]: [Not Secure] <DemianWeinZ> a la mrd
-[23:33:28] [Server thread/INFO]: [Not Secure] <DemianWeinZ> mucho texto
-[23:33:40] [Server thread/INFO]: [Not Secure] <Yazuuxs> donde dice
-[23:33:43] [Server thread/INFO]: [Not Secure] <Yazuuxs> XYZ
-[23:33:55] [Server thread/INFO]: [Not Secure] <Yazuuxs> Esas son las coords
-[23:34:14] [Server thread/INFO]: [Not Secure] <DemianWeinZ> 40 fps
-[23:34:21] [Server thread/INFO]: [Not Secure] <DemianWeinZ> bastante bien
-[23:34:26] [Server thread/INFO]: [Not Secure] <Yazuuxs> pa ser una juana manso si
-[23:34:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> con optifine te iria mejor
-[23:34:39] [Server thread/INFO]: [Not Secure] <Yazuuxs> quiza los 60 y todo
-[23:34:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> afk
-[23:35:03] [Server thread/INFO]: [Not Secure] <Yazuuxs> me voy a lavar platos
-[23:39:03] [Server thread/INFO]: DemianWeinZ has made the advancement [Sweet Dreams]
-[23:39:24] [Server thread/INFO]: [Not Secure] <DemianWeinZ> boeee
-[23:40:54] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
-[23:40:54] [Server thread/INFO]: Yazuuxs left the game
-[23:40:54] [Server thread/WARN]: handleDisconnection() called twice
+[00:00:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> me desconecto y dormi
+[00:00:12] [Server thread/INFO]: [Not Secure] <DemianWeinZ> para
+[00:00:24] [Server thread/INFO]: [Not Secure] <DemianWeinZ> pone mesa de craf
+[00:00:31] [Server thread/INFO]: [Not Secure] <DemianWeinZ> tengo lana
+[00:00:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> wao
+[00:01:11] [Server thread/INFO]: [Not Secure] <DemianWeinZ> otro horno
+[00:01:25] [Server thread/INFO]: [Not Secure] <Yazuuxs> afuera hay una mega cueva
+[00:02:11] [Server thread/INFO]: [Not Secure] <DemianWeinZ> con eso hay pa un par de dias
+[00:02:15] [Server thread/INFO]: [Not Secure] <Yazuuxs> oa
+[00:02:36] [Server thread/INFO]: [Not Secure] <Yazuuxs> aca
+[00:03:06] [Server thread/INFO]: [Not Secure] <DemianWeinZ> el hoyo de masi 3?
+[00:03:10] [Server thread/INFO]: [Not Secure] <Yazuuxs> fua
+[00:03:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> tanto hoyos va a tener
+[00:03:17] [Server thread/INFO]: [Not Secure] <Yazuuxs> anda por tu cama
+[00:03:34] [Server thread/INFO]: [Not Secure] <DemianWeinZ> t
+[00:04:37] [Server thread/INFO]: [Not Secure] <DemianWeinZ> discord?
+[00:05:05] [Server thread/INFO]: [Not Secure] <Yazuuxs> si
+[00:05:09] [Server thread/INFO]: [Not Secure] <DemianWeinZ> meparece q hay un par de mods ahi
+[00:05:20] [Server thread/INFO]: [Not Secure] <Yazuuxs> esta lleno de bichos xd
+[00:05:39] [Server thread/INFO]: [Not Secure] <Yazuuxs> llamda
+[00:06:34] [Server thread/INFO]: [Not Secure] <Yazuuxs> banca no se abre disc todavia xd
+[00:07:09] [Server thread/INFO]: [Not Secure] <DemianWeinZ> planta horno aca
+[00:07:17] [Server thread/INFO]: [Not Secure] <DemianWeinZ> tengo 5 de hierro
