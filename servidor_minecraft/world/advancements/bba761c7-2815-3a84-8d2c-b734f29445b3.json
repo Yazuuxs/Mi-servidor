@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-06-26 02:13:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:22:24 +0000",
       "minecraft:beach": "2025-06-26 00:59:28 +0000",
       "minecraft:forest": "2025-06-25 23:25:11 +0000",
@@ -1420,6 +1421,18 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-26 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-26 02:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 02:13:37 +0000"
     },
     "done": true
   },

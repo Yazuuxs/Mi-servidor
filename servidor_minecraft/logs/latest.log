@@ -47,3 +47,15 @@
 [01:56:21] [Server thread/INFO]: Yazuuxs has made the advancement [Voluntary Exile]
 [02:10:03] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
 [02:10:03] [Server thread/INFO]: DemianWeinZ left the game
+[02:10:33] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53227] logged in with entity id 24425 at (-593.5, 63.0, -402.5)
+[02:10:33] [Server thread/INFO]: DemianWeinZ joined the game
+[02:11:29] [Server thread/WARN]: DemianWeinZ moved too quickly! 0.35323063670170995,0.0,-10.10910152915875
+[02:11:40] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
+[02:11:40] [Server thread/INFO]: DemianWeinZ left the game
+[02:12:18] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53364] logged in with entity id 24814 at (-554.4574122279887, 66.0, -409.0814348968636)
+[02:12:18] [Server thread/INFO]: DemianWeinZ joined the game
+[02:15:19] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
+[02:15:19] [Server thread/INFO]: DemianWeinZ left the game
+[02:15:31] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53545] logged in with entity id 25657 at (-475.4965920137955, 64.0, -402.4683555799491)
+[02:15:31] [Server thread/INFO]: DemianWeinZ joined the game
+[02:17:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=65, z=-393} jh{x=-592, y=63, z=-393}
