@@ -542,6 +542,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-26 01:56:21 +0000",
       "minecraft:skeleton": "2025-06-26 00:18:15 +0000",
+      "minecraft:witch": "2025-06-26 02:23:52 +0000",
       "minecraft:spider": "2025-06-26 00:41:18 +0000",
       "minecraft:zombie": "2025-06-26 00:12:02 +0000",
       "minecraft:creeper": "2025-06-26 00:45:17 +0000",
@@ -915,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 02:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-06-26 01:04:34 +0000"
@@ -1005,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-26 00:34:42 +0000"
@@ -1026,6 +1039,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-26 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
     },
     "done": true
   },
@@ -1074,6 +1093,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
     },
     "done": true
   },
@@ -1140,6 +1165,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-26 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
     },
     "done": true
   },
@@ -1257,6 +1288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-26 01:15:11 +0000"
@@ -1272,6 +1309,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-26 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
     },
     "done": true
   },
@@ -1317,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-26 01:59:19 +0000"
@@ -1326,6 +1375,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-26 00:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-26 02:23:53 +0000"
     },
     "done": true
   },
