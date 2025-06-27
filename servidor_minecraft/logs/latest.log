@@ -1,38 +1,31 @@
-[00:41:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:41:11] [ServerMain/INFO]: Loaded 1337 recipes
-[00:41:11] [ServerMain/INFO]: Loaded 1448 advancements
-[00:41:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:41:11] [Server thread/INFO]: Loading properties
-[00:41:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:41:11] [Server thread/INFO]: Generating keypair
-[00:41:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:41:11] [Server thread/INFO]: Using epoll channel type
-[00:41:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:41:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:41:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:41:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:41:11] [Server thread/INFO]: Preparing level "world"
-[00:41:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:41:15] [Worker-Main-3/INFO]: Preparing spawn area: 77%
-[00:41:15] [Server thread/INFO]: Time elapsed: 3551 ms
-[00:41:15] [Server thread/INFO]: Done (3.894s)! For help, type "help"
-[00:42:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:45:17] [Server thread/INFO]: Yazuuxs[/172.29.245.172:50315] logged in with entity id 12 at (-547.1742862790064, 67.0, -422.4407247935185)
-[00:45:17] [Server thread/INFO]: Yazuuxs joined the game
-[00:48:02] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:60595] logged in with entity id 665 at (-588.1235228041827, 64.0, -389.93673958905447)
-[00:48:02] [Server thread/INFO]: DemianWeinZ joined the game
-[01:09:23] [Server thread/INFO]: [Not Secure] <Yazuuxs> -593 -401
-[01:11:22] [Server thread/INFO]: [Not Secure] <Yazuuxs> gay
-[01:13:41] [Server thread/INFO]: Villager cpj['Nitwit'/6765, l='ServerLevel[world]', x=-855.80, y=70.23, z=-855.31] died, message: 'Nitwit was slain by DemianWeinZ'
-[01:42:43] [Server thread/INFO]: Villager cpj['Villager'/6801, l='ServerLevel[world]', x=-843.77, y=73.25, z=-860.52] died, message: 'Villager burned to death'
-[01:43:05] [Server thread/INFO]: Villager cpj['Villager'/6770, l='ServerLevel[world]', x=-813.14, y=65.15, z=-833.71] died, message: 'Villager tried to swim in lava'
-[01:43:09] [Server thread/INFO]: Villager cpj['Villager'/6764, l='ServerLevel[world]', x=-821.11, y=66.20, z=-837.44] died, message: 'Villager tried to swim in lava'
-[01:43:13] [Server thread/INFO]: Villager cpj['Toolsmith'/6690, l='ServerLevel[world]', x=-816.10, y=66.32, z=-832.08] died, message: 'Toolsmith tried to swim in lava'
-[01:43:16] [Server thread/INFO]: Villager cpj['Cartographer'/6689, l='ServerLevel[world]', x=-814.90, y=66.58, z=-831.14] died, message: 'Cartographer tried to swim in lava'
+[23:12:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:12:35] [ServerMain/INFO]: Loaded 1337 recipes
+[23:12:35] [ServerMain/INFO]: Loaded 1448 advancements
+[23:12:36] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:12:36] [Server thread/INFO]: Loading properties
+[23:12:36] [Server thread/INFO]: Default game type: SURVIVAL
+[23:12:36] [Server thread/INFO]: Generating keypair
+[23:12:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:12:36] [Server thread/INFO]: Using epoll channel type
+[23:12:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:12:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:12:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:12:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:12:36] [Server thread/INFO]: Preparing level "world"
+[23:12:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:12:40] [Server thread/INFO]: Time elapsed: 3664 ms
+[23:12:40] [Server thread/INFO]: Done (3.996s)! For help, type "help"
+[23:13:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:14:41] [Server thread/INFO]: Yazuuxs[/172.29.245.172:59784] logged in with entity id 12 at (-602.121833667121, 63.0, -396.92199224337423)
+[23:14:41] [Server thread/INFO]: Yazuuxs joined the game
+[23:17:54] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:49628] logged in with entity id 1065 at (-856.174588769833, 58.0, -799.1703631841505)
+[23:17:54] [Server thread/INFO]: DemianWeinZ joined the game
+[23:18:44] [Server thread/INFO]: [Not Secure] <Yazuuxs> cccccccccccccccccccccccccccccccccccccccccccc
