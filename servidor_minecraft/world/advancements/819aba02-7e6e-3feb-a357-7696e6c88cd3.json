@@ -510,7 +510,8 @@
     "criteria": {
       "cooked_porkchop": "2025-06-26 00:01:08 +0000",
       "cooked_cod": "2025-06-26 01:14:56 +0000",
-      "cooked_beef": "2025-06-26 00:18:00 +0000"
+      "cooked_beef": "2025-06-26 00:18:00 +0000",
+      "cooked_salmon": "2025-06-27 01:00:31 +0000"
     },
     "done": false
   },
@@ -1447,6 +1448,36 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-26 02:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-27 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-27 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-27 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-27 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-27 00:55:58 +0000"
     },
     "done": true
   },
