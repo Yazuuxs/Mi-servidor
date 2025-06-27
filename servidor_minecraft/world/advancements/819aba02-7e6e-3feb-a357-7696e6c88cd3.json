@@ -16,6 +16,7 @@
       "minecraft:river": "2025-06-26 01:04:28 +0000",
       "minecraft:stony_shore": "2025-06-26 01:41:59 +0000",
       "minecraft:lush_caves": "2025-06-26 00:11:31 +0000",
+      "minecraft:savanna": "2025-06-27 01:12:23 +0000",
       "minecraft:plains": "2025-06-26 01:42:00 +0000"
     },
     "done": false
@@ -509,6 +510,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-26 00:01:08 +0000",
+      "cooked_chicken": "2025-06-27 01:14:33 +0000",
       "cooked_cod": "2025-06-26 01:14:56 +0000",
       "cooked_beef": "2025-06-26 00:18:00 +0000",
       "cooked_salmon": "2025-06-27 01:00:31 +0000"
@@ -1457,9 +1459,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-27 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
     },
     "done": true
   },
@@ -1469,15 +1483,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-27 00:55:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-06-27 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 01:10:35 +0000"
     },
     "done": true
   },
