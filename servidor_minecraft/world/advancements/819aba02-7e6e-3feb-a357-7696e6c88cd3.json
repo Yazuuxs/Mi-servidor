@@ -549,6 +549,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-26 01:56:21 +0000",
       "minecraft:skeleton": "2025-06-26 00:18:15 +0000",
+      "minecraft:enderman": "2025-06-27 23:39:22 +0000",
       "minecraft:witch": "2025-06-26 02:23:52 +0000",
       "minecraft:spider": "2025-06-26 00:41:18 +0000",
       "minecraft:zombie": "2025-06-26 00:12:02 +0000",
@@ -1764,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-27 23:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-27 23:29:07 +0000"
@@ -1773,6 +1780,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-27 23:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-27 23:36:57 +0000"
     },
     "done": true
   },
