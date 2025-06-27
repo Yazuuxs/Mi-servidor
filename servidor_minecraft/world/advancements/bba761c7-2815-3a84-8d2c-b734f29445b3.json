@@ -415,6 +415,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-26 00:01:17 +0000",
       "apple": "2025-06-27 00:52:50 +0000",
+      "bread": "2025-06-27 01:35:33 +0000",
       "suspicious_stew": "2025-06-26 01:29:25 +0000",
       "cooked_mutton": "2025-06-26 00:36:05 +0000",
       "cooked_beef": "2025-06-26 01:20:11 +0000"
@@ -1593,6 +1594,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-06-27 01:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-27 01:35:25 +0000"
     },
     "done": true
   },
