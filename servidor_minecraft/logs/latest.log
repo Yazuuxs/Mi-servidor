@@ -1,88 +1,30 @@
-[00:29:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:29:58] [ServerMain/INFO]: Loaded 1337 recipes
-[00:29:58] [ServerMain/INFO]: Loaded 1448 advancements
-[00:29:58] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:29:58] [Server thread/INFO]: Loading properties
-[00:29:58] [Server thread/INFO]: Default game type: SURVIVAL
-[00:29:58] [Server thread/INFO]: Generating keypair
-[00:29:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:29:58] [Server thread/INFO]: Using epoll channel type
-[00:29:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:29:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:29:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:29:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:29:58] [Server thread/INFO]: Preparing level "world"
-[00:29:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:02] [Server thread/INFO]: Time elapsed: 3472 ms
-[00:30:02] [Server thread/INFO]: Done (3.877s)! For help, type "help"
-[00:31:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:31:46] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:63610] logged in with entity id 24 at (-47.74629154380882, 22.0, 54.28656618655899)
-[00:31:46] [Server thread/INFO]: DemianWeinZ joined the game
-[00:32:12] [Server thread/INFO]: Yazuuxs[/172.29.245.172:51073] logged in with entity id 302 at (-124.35911377950151, 3.0, 36.16768075487688)
-[00:32:12] [Server thread/INFO]: Yazuuxs joined the game
-[00:34:37] [Server thread/INFO]: DemianWeinZ has made the advancement [Take Aim]
-[00:51:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> -63 68
-[00:52:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=72, z=55} jh{x=-37, y=72, z=55}
-[01:04:42] [Server thread/INFO]: DemianWeinZ has made the advancement [Fishy Business]
-[01:22:21] [Server thread/INFO]: DemianWeinZ has made the advancement [Hot Stuff]
-[01:22:24] [Server thread/INFO]: Yazuuxs has made the advancement [Hot Stuff]
-[01:22:54] [Server thread/INFO]: DemianWeinZ burned to death
-[01:23:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> -360
-[01:23:17] [Server thread/INFO]: [Not Secure] <Yazuuxs> 213
-[01:29:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-446, y=64, z=97} jh{x=-446, y=62, z=97}
-[01:41:24] [Server thread/INFO]: [Not Secure] <Yazuuxs> gil el q duerme
-[01:45:21] [Server thread/INFO]: DemianWeinZ lost connection: Disconnected
-[01:45:21] [Server thread/INFO]: DemianWeinZ left the game
-[01:45:21] [Server thread/WARN]: handleDisconnection() called twice
-[01:45:46] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:51762] logged in with entity id 18257 at (-651.7970679126198, 70.0, -289.81448174728723)
-[01:45:46] [Server thread/INFO]: DemianWeinZ joined the game
-[01:50:27] [Server thread/INFO]: DemianWeinZ has made the advancement [The Parrots and the Bats]
-[01:56:21] [Server thread/INFO]: Yazuuxs has made the advancement [Voluntary Exile]
-[02:10:03] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[02:10:03] [Server thread/INFO]: DemianWeinZ left the game
-[02:10:33] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53227] logged in with entity id 24425 at (-593.5, 63.0, -402.5)
-[02:10:33] [Server thread/INFO]: DemianWeinZ joined the game
-[02:11:29] [Server thread/WARN]: DemianWeinZ moved too quickly! 0.35323063670170995,0.0,-10.10910152915875
-[02:11:40] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[02:11:40] [Server thread/INFO]: DemianWeinZ left the game
-[02:12:18] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53364] logged in with entity id 24814 at (-554.4574122279887, 66.0, -409.0814348968636)
-[02:12:18] [Server thread/INFO]: DemianWeinZ joined the game
-[02:15:19] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[02:15:19] [Server thread/INFO]: DemianWeinZ left the game
-[02:15:31] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53545] logged in with entity id 25657 at (-475.4965920137955, 64.0, -402.4683555799491)
-[02:15:31] [Server thread/INFO]: DemianWeinZ joined the game
-[02:17:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=65, z=-393} jh{x=-592, y=63, z=-393}
-[02:22:11] [Server thread/INFO]: DemianWeinZ has made the advancement [A Seedy Place]
-[02:35:55] [Server thread/WARN]: DemianWeinZ moved too quickly! -4.174944330473409,0.0,-9.246522021875421
-[02:36:13] [Server thread/INFO]: DemianWeinZ was slain by Zombie
-[02:40:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-591, y=64, z=-380} jh{x=-590, y=64, z=-380}
-[02:40:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=66, z=-378} jh{x=-593, y=64, z=-378}
-[02:40:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=66, z=-378} jh{x=-593, y=64, z=-378}
-[02:40:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-599, y=66, z=-376} jh{x=-600, y=64, z=-376}
-[02:40:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-597, y=65, z=-374} jh{x=-600, y=64, z=-373}
-[02:40:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-598, y=64, z=-377} jh{x=-598, y=64, z=-376}
-[02:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-602, y=65, z=-376} jh{x=-602, y=64, z=-375}
-[02:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-599, y=64, z=-379} jh{x=-600, y=63, z=-378}
-[02:40:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=65, z=-383} jh{x=-591, y=63, z=-384}
-[02:40:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-592, y=65, z=-386} jh{x=-591, y=63, z=-387}
-[02:40:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=64, z=-391} jh{x=-588, y=63, z=-390}
-[02:40:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-590, y=64, z=-391} jh{x=-588, y=63, z=-390}
-[02:43:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-567, y=69, z=-331} jh{x=-568, y=67, z=-331}
-[02:43:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-569, y=68, z=-327} jh{x=-571, y=67, z=-326}
-[02:43:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-569, y=68, z=-327} jh{x=-571, y=67, z=-326}
-[02:44:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-576, y=69, z=-334} jh{x=-577, y=68, z=-334}
-[02:44:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-575, y=70, z=-325} jh{x=-575, y=68, z=-323}
-[02:44:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-569, y=66, z=-284} jh{x=-567, y=65, z=-286}
-[02:46:49] [Server thread/INFO]: Yazuuxs has made the advancement [A Seedy Place]
-[02:47:17] [Server thread/INFO]: Yazuuxs has made the advancement [The Parrots and the Bats]
-[02:48:29] [Server thread/INFO]: DemianWeinZ lost connection: Disconnected
-[02:48:29] [Server thread/INFO]: DemianWeinZ left the game
-[02:50:41] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
-[02:50:41] [Server thread/INFO]: Yazuuxs left the game
+[00:41:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:41:11] [ServerMain/INFO]: Loaded 1337 recipes
+[00:41:11] [ServerMain/INFO]: Loaded 1448 advancements
+[00:41:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:41:11] [Server thread/INFO]: Loading properties
+[00:41:11] [Server thread/INFO]: Default game type: SURVIVAL
+[00:41:11] [Server thread/INFO]: Generating keypair
+[00:41:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:41:11] [Server thread/INFO]: Using epoll channel type
+[00:41:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:41:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:41:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:41:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:41:11] [Server thread/INFO]: Preparing level "world"
+[00:41:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:15] [Worker-Main-3/INFO]: Preparing spawn area: 77%
+[00:41:15] [Server thread/INFO]: Time elapsed: 3551 ms
+[00:41:15] [Server thread/INFO]: Done (3.894s)! For help, type "help"
+[00:42:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:45:17] [Server thread/INFO]: Yazuuxs[/172.29.245.172:50315] logged in with entity id 12 at (-547.1742862790064, 67.0, -422.4407247935185)
+[00:45:17] [Server thread/INFO]: Yazuuxs joined the game
+[00:48:02] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:60595] logged in with entity id 665 at (-588.1235228041827, 64.0, -389.93673958905447)
+[00:48:02] [Server thread/INFO]: DemianWeinZ joined the game
