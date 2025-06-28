@@ -60,3 +60,5 @@
 [03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=95, z=-1490}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=96, z=-1489}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=95, z=-1489}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[04:01:05] [Server thread/INFO]: marinette4507 lost connection: Disconnected
+[04:01:05] [Server thread/INFO]: marinette4507 left the game
