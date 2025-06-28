@@ -1,108 +1,32 @@
-[00:01:54] [Server thread/INFO]: [Not Secure] <Yazuuxs> -566 -196
-[00:20:37] [Server thread/INFO]: Yazuuxs has made the advancement [Best Friends Forever]
-[00:23:06] [Server thread/WARN]: DemianWeinZ moved too quickly! -9.02089276598565,0.0,-4.849944423119894
-[00:24:57] [Server thread/INFO]: DemianWeinZ has made the advancement [Best Friends Forever]
-[00:39:14] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2578998569191526
-[00:39:14] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7718953231725436
-[00:39:15] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0
-[00:39:15] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0
-[00:39:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2541391342829513
-[00:39:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.640131841470037
-[00:45:07] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[00:45:07] [Server thread/INFO]: DemianWeinZ left the game
-[00:45:20] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:54709] logged in with entity id 36673 at (-597.6064392853978, 63.0, -413.1363163849843)
-[00:45:20] [Server thread/INFO]: DemianWeinZ joined the game
-[00:47:22] [Server thread/INFO]: Yazuuxs has made the advancement [Enchanter]
-[00:51:57] [Server thread/INFO]: DemianWeinZ has made the advancement [Enchanter]
-[00:58:14] [Server thread/INFO]: Yazuuxs has made the advancement [Take Aim]
-[01:18:16] [Server thread/INFO]: DemianWeinZ lost connection: Disconnected
-[01:18:16] [Server thread/INFO]: DemianWeinZ left the game
-[01:18:34] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:56688] logged in with entity id 43851 at (-604.6875, 62.0, -399.38616557626756)
-[01:18:34] [Server thread/INFO]: DemianWeinZ joined the game
-[01:29:54] [Server thread/INFO]: Yazuuxs has made the advancement [We Need to Go Deeper]
-[01:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
-[01:33:19] [Server thread/INFO]: DemianWeinZ has made the advancement [We Need to Go Deeper]
-[01:33:59] [Server thread/INFO]: DemianWeinZ has made the advancement [Ice Bucket Challenge]
-[01:37:38] [Server thread/INFO]: DemianWeinZ fell from a high place
-[01:50:28] [Server thread/INFO]: [Not Secure] <Yazuuxs> w}
-[02:09:32] [Server thread/INFO]: [Not Secure] <Yazuuxs> cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-[02:09:58] [Server thread/WARN]: DemianWeinZ moved too quickly! -5.858034418519992,1.0,-8.214339597668697
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.28512478838615607
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.30222810994257543
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.3988645299985129
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.375
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.29254262601580194
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7408786778509011
-[02:32:07] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.2725766856561904
-[02:32:08] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.30430705790865886
-[02:32:08] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7217566163158153
-[02:32:08] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.199746470921582
-[02:32:08] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.7101302309799848
-[02:35:30] [Server thread/INFO]: marinette4507[/172.29.35.46:50975] logged in with entity id 68706 at (9.5, 75.0, -9.5)
-[02:35:30] [Server thread/INFO]: marinette4507 joined the game
-[02:41:27] [Server thread/INFO]: marinette4507 has made the advancement [Stone Age]
-[02:42:22] [Server thread/INFO]: marinette4507 has made the advancement [Getting an Upgrade]
-[02:47:44] [Server thread/INFO]: marinette4507 has made the advancement [Monster Hunter]
-[02:49:24] [Server thread/INFO]: [Not Secure] <DemianWeinZ> 920 -1450
-[02:57:52] [Server thread/INFO]: Yazuuxs has made the advancement [Fishy Business]
-[03:00:40] [Server thread/INFO]: marinette4507 has made the advancement [Sweet Dreams]
-[03:17:32] [Server thread/INFO]: marinette4507 has made the advancement [Acquire Hardware]
-[03:22:44] [Server thread/INFO]: marinette4507 has made the advancement [Isn't It Iron Pick]
-[03:31:13] [Server thread/INFO]: DemianWeinZ fell from a high place
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1705, y=96, z=-1492}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1705, y=96, z=-1491}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1705, y=96, z=-1490}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1705, y=96, z=-1489}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=96, z=-1491}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=95, z=-1491}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=96, z=-1490}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=95, z=-1490}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=96, z=-1489}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[03:43:54] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [106, -94], pos: jh{x=1706, y=95, z=-1489}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[04:01:05] [Server thread/INFO]: marinette4507 lost connection: Disconnected
-[04:01:05] [Server thread/INFO]: marinette4507 left the game
-[04:16:55] [Server thread/INFO]: [Not Secure] <DemianWeinZ> 920 -1450
-[04:41:03] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.42010599456051523
-[04:41:03] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0621899915831818
-[04:41:03] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.708827937696924
-[04:41:03] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.35790261117341515
-[04:41:26] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2535443285761403
-[04:41:26] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7001614067020228
-[04:41:26] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.1629184527714642
-[04:41:26] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.6741938055403949
-[04:44:13] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.28862611720319364
-[04:44:13] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9349716945575892
-[04:44:13] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5718997275228048
-[04:44:13] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.2037886202508616
-[04:44:14] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.8329811695077751
-[04:52:22] [Server thread/INFO]: [Not Secure] <Yazuuxs> 109 -182
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.28891046919295604
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.6436958658191543
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0337296227105526
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.2690529678099856
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7111839532013846
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.2690529678099856
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.6811158804966908
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.2690529678099856
-[04:57:29] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.6414304912271405
-[04:58:40] [Server thread/WARN]: Birch Boat (vehicle of Yazuuxs) moved wrongly! 0.2839341284425245
-[04:58:40] [Server thread/WARN]: Birch Boat (vehicle of Yazuuxs) moved wrongly! 0.44427619141526975
-[04:58:40] [Server thread/WARN]: Birch Boat (vehicle of Yazuuxs) moved wrongly! 0.5430331564467679
-[05:01:36] [Server thread/INFO]: Yazuuxs fell from a high place
-[05:03:17] [Server thread/WARN]: Oak Boat (vehicle of Yazuuxs) moved wrongly! 0.26463245641093636
-[05:03:17] [Server thread/WARN]: Oak Boat (vehicle of Yazuuxs) moved wrongly! 0.49458107900636605
-[05:04:14] [Server thread/INFO]: DemianWeinZ fell from a high place
-[05:23:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> 9 carteles, 6 botones ,3 barriles, 3 lozas, 1 cofre, 1 bote, 1 tolva, 1 de lava y 1 de agua
-[05:23:35] [Server thread/INFO]: [Not Secure] <Yazuuxs> 4 de agua
-[05:45:10] [Server thread/INFO]: Villager cpj['Nitwit'/176512, l='ServerLevel[world]', x=912.75, y=72.00, z=-1450.38] died, message: 'Nitwit was slain by DemianWeinZ'
-[05:48:27] [Server thread/INFO]: Villager cpj['Villager'/176538, l='ServerLevel[world]', x=932.33, y=73.67, z=-1454.08] died, message: 'Villager was slain by Yazuuxs'
-[05:48:38] [Server thread/INFO]: Villager cpj['Farmer'/176546, l='ServerLevel[world]', x=928.45, y=64.96, z=-1428.79] died, message: 'Farmer was slain by DemianWeinZ'
-[05:48:49] [Server thread/INFO]: Villager cpj['Farmer'/176534, l='ServerLevel[world]', x=900.74, y=72.00, z=-1496.55] died, message: 'Farmer was slain by Yazuuxs'
-[05:50:36] [Server thread/INFO]: Villager cpj['Villager'/176515, l='ServerLevel[world]', x=873.50, y=58.00, z=-1434.62] died, message: 'Villager was slain by Yazuuxs'
-[06:06:20] [Server thread/INFO]: Villager cpj['Villager'/176526, l='ServerLevel[world]', x=857.44, y=58.02, z=-1464.70] died, message: 'Villager was slain by Yazuuxs'
-[06:08:18] [Server thread/INFO]: Villager cpj['Fisherman'/176511, l='ServerLevel[world]', x=880.90, y=71.33, z=-1439.80] died, message: 'Fisherman tried to swim in lava'
-[06:08:19] [Server thread/INFO]: Yazuuxs was slain by Iron Golem
-[06:25:59] [Server thread/INFO]: DemianWeinZ fell from a high place
-[07:13:44] [Server thread/INFO]: DemianWeinZ lost connection: Disconnected
-[07:13:44] [Server thread/INFO]: DemianWeinZ left the game
+[20:47:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:47:17] [ServerMain/INFO]: Loaded 1337 recipes
+[20:47:17] [ServerMain/INFO]: Loaded 1448 advancements
+[20:47:17] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:47:17] [Server thread/INFO]: Loading properties
+[20:47:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:47:17] [Server thread/INFO]: Generating keypair
+[20:47:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:47:17] [Server thread/INFO]: Using epoll channel type
+[20:47:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:47:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:47:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:47:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:47:17] [Server thread/INFO]: Preparing level "world"
+[20:47:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:47:21] [Server thread/INFO]: Time elapsed: 3819 ms
+[20:47:21] [Server thread/INFO]: Done (4.091s)! For help, type "help"
+[20:48:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:50:07] [Server thread/INFO]: Yazuuxs[/172.29.245.172:49161] logged in with entity id 8 at (878.9346375008394, 71.9375, -1443.882984576467)
+[20:50:07] [Server thread/INFO]: Yazuuxs joined the game
+[20:52:02] [Server thread/INFO]: Made Yazuuxs a server operator
+[20:53:31] [Server thread/INFO]: Incorrect argument for command
+[20:53:31] [Server thread/INFO]: gamerule playerSleepingPercentage 1<--[HERE]
+[20:54:32] [Server thread/INFO]: [Yazuuxs: Gamerule playersSleepingPercentage is now set to: 1]
