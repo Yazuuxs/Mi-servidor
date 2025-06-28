@@ -10,16 +10,19 @@
       "minecraft:flower_forest": "2025-06-26 02:13:33 +0000",
       "minecraft:beach": "2025-06-26 00:59:28 +0000",
       "minecraft:forest": "2025-06-25 23:25:11 +0000",
+      "minecraft:sparse_jungle": "2025-06-28 02:37:51 +0000",
       "minecraft:river": "2025-06-26 01:36:31 +0000",
       "minecraft:lukewarm_ocean": "2025-06-27 23:31:00 +0000",
       "minecraft:stony_shore": "2025-06-26 01:42:03 +0000",
       "minecraft:lush_caves": "2025-06-26 00:11:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:22:24 +0000",
       "minecraft:ocean": "2025-06-26 01:08:53 +0000",
+      "minecraft:jungle": "2025-06-28 02:38:10 +0000",
       "minecraft:sunflower_plains": "2025-06-26 01:43:43 +0000",
       "minecraft:meadow": "2025-06-27 02:04:40 +0000",
       "minecraft:savanna": "2025-06-27 01:12:22 +0000",
-      "minecraft:plains": "2025-06-26 01:42:07 +0000"
+      "minecraft:plains": "2025-06-26 01:42:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-28 02:35:30 +0000"
     },
     "done": false
   },
@@ -1745,6 +1748,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-28 02:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 02:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-28 01:33:19 +0000"
@@ -1778,6 +1799,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-28 01:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-28 02:25:55 +0000"
     },
     "done": true
   },
