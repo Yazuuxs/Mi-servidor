@@ -13,10 +13,12 @@
       "minecraft:forest": "2025-06-25 23:25:11 +0000",
       "minecraft:taiga": "2025-06-28 03:19:50 +0000",
       "minecraft:sparse_jungle": "2025-06-28 02:37:51 +0000",
+      "minecraft:deep_ocean": "2025-06-28 03:35:39 +0000",
       "minecraft:river": "2025-06-26 01:36:31 +0000",
       "minecraft:lukewarm_ocean": "2025-06-27 23:31:00 +0000",
       "minecraft:stony_shore": "2025-06-26 01:42:03 +0000",
       "minecraft:lush_caves": "2025-06-26 00:11:34 +0000",
+      "minecraft:dripstone_caves": "2025-06-28 03:27:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:22:24 +0000",
       "minecraft:ocean": "2025-06-26 01:08:53 +0000",
       "minecraft:jungle": "2025-06-28 02:38:10 +0000",
@@ -27,6 +29,7 @@
       "minecraft:savanna": "2025-06-27 01:12:22 +0000",
       "minecraft:bamboo_jungle": "2025-06-28 02:57:32 +0000",
       "minecraft:plains": "2025-06-26 01:42:07 +0000",
+      "minecraft:jagged_peaks": "2025-06-28 03:42:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-28 02:35:30 +0000"
     },
     "done": false
@@ -1766,9 +1769,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-28 03:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-28 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-28 03:35:19 +0000"
     },
     "done": true
   },
@@ -1781,6 +1796,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-06-28 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-28 03:35:19 +0000"
     },
     "done": true
   },
