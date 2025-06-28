@@ -10,7 +10,9 @@
       "minecraft:flower_forest": "2025-06-26 01:57:14 +0000",
       "minecraft:beach": "2025-06-26 00:59:37 +0000",
       "minecraft:forest": "2025-06-26 00:23:17 +0000",
+      "minecraft:deep_ocean": "2025-06-28 04:42:24 +0000",
       "minecraft:river": "2025-06-26 01:04:28 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-28 04:42:53 +0000",
       "minecraft:stony_shore": "2025-06-26 01:41:59 +0000",
       "minecraft:lush_caves": "2025-06-26 00:11:31 +0000",
       "minecraft:dripstone_caves": "2025-06-27 02:13:32 +0000",
@@ -19,7 +21,8 @@
       "minecraft:sunflower_plains": "2025-06-26 01:43:43 +0000",
       "minecraft:meadow": "2025-06-27 02:13:24 +0000",
       "minecraft:savanna": "2025-06-27 01:12:23 +0000",
-      "minecraft:plains": "2025-06-26 01:42:00 +0000"
+      "minecraft:plains": "2025-06-26 01:42:00 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-28 04:42:41 +0000"
     },
     "done": false
   },
