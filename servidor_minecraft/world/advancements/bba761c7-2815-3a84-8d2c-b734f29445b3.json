@@ -9,7 +9,9 @@
     "criteria": {
       "minecraft:flower_forest": "2025-06-26 02:13:33 +0000",
       "minecraft:beach": "2025-06-26 00:59:28 +0000",
+      "minecraft:dark_forest": "2025-06-28 02:55:43 +0000",
       "minecraft:forest": "2025-06-25 23:25:11 +0000",
+      "minecraft:taiga": "2025-06-28 03:19:50 +0000",
       "minecraft:sparse_jungle": "2025-06-28 02:37:51 +0000",
       "minecraft:river": "2025-06-26 01:36:31 +0000",
       "minecraft:lukewarm_ocean": "2025-06-27 23:31:00 +0000",
@@ -19,8 +21,11 @@
       "minecraft:ocean": "2025-06-26 01:08:53 +0000",
       "minecraft:jungle": "2025-06-28 02:38:10 +0000",
       "minecraft:sunflower_plains": "2025-06-26 01:43:43 +0000",
+      "minecraft:grove": "2025-06-28 03:07:02 +0000",
       "minecraft:meadow": "2025-06-27 02:04:40 +0000",
+      "minecraft:birch_forest": "2025-06-28 02:59:56 +0000",
       "minecraft:savanna": "2025-06-27 01:12:22 +0000",
+      "minecraft:bamboo_jungle": "2025-06-28 02:57:32 +0000",
       "minecraft:plains": "2025-06-26 01:42:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-28 02:35:30 +0000"
     },
@@ -663,7 +668,8 @@
       "minecraft:spider": "2025-06-26 00:14:16 +0000",
       "minecraft:zombie": "2025-06-26 00:12:00 +0000",
       "minecraft:creeper": "2025-06-27 00:59:14 +0000",
-      "minecraft:drowned": "2025-06-27 00:54:04 +0000"
+      "minecraft:drowned": "2025-06-27 00:54:04 +0000",
+      "minecraft:zombie_villager": "2025-06-28 03:08:28 +0000"
     },
     "done": false
   },
@@ -1754,6 +1760,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 03:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-28 02:38:46 +0000"
@@ -1784,6 +1802,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-28 02:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-28 01:33:19 +0000"
@@ -1796,9 +1826,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-28 03:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-28 01:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-28 03:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 03:07:11 +0000"
     },
     "done": true
   },
@@ -1808,9 +1856,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 02:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 02:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-28 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 02:57:46 +0000"
     },
     "done": true
   },
