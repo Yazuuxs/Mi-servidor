@@ -1,86 +1,31 @@
-[02:24:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:24:40] [ServerMain/INFO]: Loaded 1337 recipes
-[02:24:40] [ServerMain/INFO]: Loaded 1448 advancements
-[02:24:40] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:24:40] [Server thread/INFO]: Loading properties
-[02:24:40] [Server thread/INFO]: Default game type: SURVIVAL
-[02:24:40] [Server thread/INFO]: Generating keypair
-[02:24:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:24:41] [Server thread/INFO]: Using epoll channel type
-[02:24:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:24:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:24:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:24:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:24:41] [Server thread/INFO]: Preparing level "world"
-[02:24:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:24:44] [Server thread/INFO]: Time elapsed: 3410 ms
-[02:24:44] [Server thread/INFO]: Done (3.697s)! For help, type "help"
-[02:25:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:26:32] [Server thread/INFO]: Yazuuxs[/172.29.245.172:61851] logged in with entity id 8 at (-597.1570485399576, 63.0, -404.9864799157941)
-[02:26:32] [Server thread/INFO]: Yazuuxs joined the game
-[02:26:33] [Server thread/INFO]: marinette4507[/172.29.35.46:56774] logged in with entity id 202 at (-1098.0962924103724, 125.0, -1218.4616773865414)
-[02:26:33] [Server thread/INFO]: marinette4507 joined the game
-[02:27:59] [Server thread/INFO]: [Not Secure] <Yazuuxs> Cuando me volvia de hacer la granja de hierro
-[02:28:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> encontre un pueblo en la zona de cerezos
-[02:28:16] [Server thread/INFO]: [Not Secure] <marinette4507> ah mira vos
-[02:28:18] [Server thread/INFO]: [Not Secure] <Yazuuxs> por desgracia no anote las coords
-[02:28:18] [Server thread/INFO]: [Not Secure] <marinette4507> mio
-[02:28:20] [Server thread/INFO]: [Not Secure] <Yazuuxs> pipipi
-[02:28:23] [Server thread/INFO]: [Not Secure] <Yazuuxs> to
-[02:28:32] [Server thread/INFO]: [Not Secure] <marinette4507> si lo encuentro me lo quedo
-[02:28:38] [Server thread/INFO]: [Not Secure] <marinette4507> esta dentro de mis terrenos
-[02:28:43] [Server thread/INFO]: [Not Secure] <Yazuuxs> deje una cama afuera de una casa
-[02:28:49] [Server thread/INFO]: [Not Secure] <Yazuuxs> como firma de q estuve ahi
-[02:29:03] [Server thread/INFO]: marinette4507 has made the advancement [Not Today, Thank You]
-[02:29:15] [Server thread/INFO]: [Not Secure] <Yazuuxs> esta en dificil ahora
-[02:29:22] [Server thread/INFO]: [Not Secure] <Yazuuxs> me olvide de avisar
-[02:29:30] [Server thread/INFO]: [Not Secure] <marinette4507> chu matate
-[02:29:41] [Server thread/INFO]: [Not Secure] <Yazuuxs> yyy pa mas desafio
-[02:29:43] [Server thread/INFO]: [Not Secure] <marinette4507> esa cama puede desaparecer magicamente
-[02:30:09] [Server thread/INFO]: [Not Secure] <Yazuuxs> creo q vi de lejos tu casa
-[02:30:10] [Server thread/INFO]: [Not Secure] <Yazuuxs> bah
-[02:30:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> vi antorchas fndgnsd
-[02:30:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> y como andaba llevando 6 stack de hierro no corri el riesgo de ir
-[02:30:41] [Server thread/INFO]: [Not Secure] <marinette4507> kahdsfkja
-[02:30:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> me mato un enderman cuando estaba a nada de llegar a mi base igual
-[02:31:12] [Server thread/INFO]: [Not Secure] <Yazuuxs> flasho q lo mire y me bananeo de 4 golpes
-[02:31:25] [Server thread/INFO]: [Not Secure] <marinette4507> por gay
-[02:31:37] [Server thread/INFO]: [Not Secure] <Yazuuxs> es q se ofendio por q yo era hetero
-[02:31:40] [Server thread/INFO]: [Not Secure] <Yazuuxs> en el mes gay
-[02:31:45] [Server thread/INFO]: [Not Secure] <marinette4507> si aja
-[02:31:52] [Server thread/INFO]: [Not Secure] <Yazuuxs> ahi entendi por q tmb se enojo la brisa ese dia
-[02:31:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> perdon por ser tan normal
-[02:32:03] [Server thread/INFO]: [Not Secure] <Yazuuxs> me siento culpable
-[02:32:20] [Server thread/INFO]: [Not Secure] <marinette4507> JAJAJA decilo enfrente de ella pue
-[02:32:22] [Server thread/INFO]: [Not Secure] <marinette4507> que tanto
-[02:32:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> d1 pue
-[02:32:32] [Server thread/INFO]: [Not Secure] <Yazuuxs> mira si le voy a tener miedo
-[02:32:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> yo temerle a los gays?
-[02:32:53] [Server thread/INFO]: [Not Secure] <Yazuuxs> ni a palo
-[02:33:16] [Server thread/INFO]: [Not Secure] <marinette4507> ya veremos el lunes
-[02:33:33] [Server thread/INFO]: [Not Secure] <Yazuuxs> aja
-[02:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1094, y=120, z=-1220} jh{x=-1092, y=120, z=-1220}
-[02:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1094, y=120, z=-1220} jh{x=-1092, y=120, z=-1220}
-[02:35:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> unos de los q lleva llama
-[02:35:06] [Server thread/INFO]: [Not Secure] <Yazuuxs> me salto todos los cultivos
-[02:35:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> q hdp
-[02:35:26] [Server thread/INFO]: [Not Secure] <marinette4507> akshdkfa
-[02:35:45] [Server thread/INFO]: [Not Secure] <Yazuuxs> encima por matarlo dio como 6 saltos
-[02:35:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> dio mio
-[02:40:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-975, y=69, z=-1201} jh{x=-977, y=67, z=-1202}
-[02:45:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> bueno
-[02:45:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> hoy no puedo madrugar
-[02:45:44] [Server thread/INFO]: [Not Secure] <Yazuuxs> ojala te maten dsbgbsd
-[02:45:47] [Server thread/INFO]: [Not Secure] <Yazuuxs> adios
-[02:45:51] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
-[02:45:51] [Server thread/INFO]: Yazuuxs left the game
-[03:23:34] [Server thread/INFO]: marinette4507 lost connection: Disconnected
-[03:23:34] [Server thread/INFO]: marinette4507 left the game
-[03:24:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:03:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:03:03] [ServerMain/INFO]: Loaded 1337 recipes
+[18:03:03] [ServerMain/INFO]: Loaded 1448 advancements
+[18:03:03] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[18:03:03] [Server thread/INFO]: Loading properties
+[18:03:03] [Server thread/INFO]: Default game type: SURVIVAL
+[18:03:03] [Server thread/INFO]: Generating keypair
+[18:03:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:03:03] [Server thread/INFO]: Using epoll channel type
+[18:03:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:03:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:03:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:03:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:03:03] [Server thread/INFO]: Preparing level "world"
+[18:03:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:03:09] [Server thread/INFO]: Time elapsed: 5381 ms
+[18:03:09] [Server thread/INFO]: Done (5.750s)! For help, type "help"
+[18:04:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:04:34] [Server thread/INFO]: Yazuuxs[/172.29.245.172:60268] logged in with entity id 8 at (-602.2731293639423, 63.0, -392.4971465922385)
+[18:04:34] [Server thread/INFO]: Yazuuxs joined the game
