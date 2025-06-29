@@ -1,119 +1,77 @@
-[20:47:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:47:17] [ServerMain/INFO]: Loaded 1337 recipes
-[20:47:17] [ServerMain/INFO]: Loaded 1448 advancements
-[20:47:17] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:47:17] [Server thread/INFO]: Loading properties
-[20:47:17] [Server thread/INFO]: Default game type: SURVIVAL
-[20:47:17] [Server thread/INFO]: Generating keypair
-[20:47:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:47:17] [Server thread/INFO]: Using epoll channel type
-[20:47:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:47:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:47:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:47:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:47:17] [Server thread/INFO]: Preparing level "world"
-[20:47:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:47:21] [Server thread/INFO]: Time elapsed: 3819 ms
-[20:47:21] [Server thread/INFO]: Done (4.091s)! For help, type "help"
-[20:48:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:50:07] [Server thread/INFO]: Yazuuxs[/172.29.245.172:49161] logged in with entity id 8 at (878.9346375008394, 71.9375, -1443.882984576467)
-[20:50:07] [Server thread/INFO]: Yazuuxs joined the game
-[20:52:02] [Server thread/INFO]: Made Yazuuxs a server operator
-[20:53:31] [Server thread/INFO]: Incorrect argument for command
-[20:53:31] [Server thread/INFO]: gamerule playerSleepingPercentage 1<--[HERE]
-[20:54:32] [Server thread/INFO]: [Yazuuxs: Gamerule playersSleepingPercentage is now set to: 1]
-[21:39:02] [Server thread/INFO]: [Not Secure] <Yazuuxs> -1050 -450
-[21:39:30] [Server thread/INFO]: [Not Secure] <Yazuuxs> -600 -400
-[21:40:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5787361934123965
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.30809719186379425
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9174441710888459
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.528912917487105
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.25490118100907466
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.6461949017948427
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.4390636888655308
-[21:40:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.35814260717472735
-[21:42:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2609755708076591
-[21:42:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9172444997008711
-[21:42:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5749471028546509
-[21:42:48] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.37242390207916287
-[21:43:37] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.29796698162908797
-[21:43:37] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.8277778577032677
-[21:43:37] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.3537104158192506
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.6013249337966045
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.29448234585129285
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7774089016286325
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.304744369037735
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.8998728739024955
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.608303769352915
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.6277831383044941
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.3862016512748596
-[21:43:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.256571447756869
-[21:44:11] [Server thread/INFO]: [Not Secure] <Yazuuxs> -1350 -1050
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -5.627408673783066,2.0,-8.715156932205105
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -6.011281099773896,2.0,-9.247513784143734
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -6.404707551408819,2.0,-9.775019902022677
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -6.80324617167912,2.0,-10.299930488819541
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -7.204520211460704,2.0,-10.823452258683687
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -7.607257919684116,3.0,-11.346230900297087
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -8.010778807708448,3.0,-11.868611908799949
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -8.414718759629523,3.0,-12.390780151753347
-[21:45:00] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved too quickly! -8.818882944286315,3.0,-12.91283454810332
-[21:45:23] [Server thread/INFO]: [Not Secure] <Yazuuxs> -1300 -913
-[21:45:52] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.357429247437949
-[21:45:52] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.855547547339327
-[21:46:15] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.43087870739600476
-[21:46:15] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.8857940997406786
-[21:46:15] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.31666431206076595
-[21:46:15] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5082104791395068
-[21:47:54] [Server thread/INFO]: [Not Secure] <Yazuuxs> -1120 -1216
-[21:49:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.3302564702503332
-[21:49:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.823016400434426
-[21:49:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.3303051804232382
-[21:49:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5409034901560972
-[21:49:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.1774300036904606
-[21:49:06] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.814158058212115
-[21:49:06] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.4466059975188728
-[21:50:11] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.3148045866250868
-[21:50:11] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9206452993394123
-[21:50:11] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.5415352559434723
-[21:50:11] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.166921373753439
-[21:51:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5643007820478942
-[21:51:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.2310119996495814
-[21:51:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.8995738174253347
-[21:51:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.568881884394159
-[21:51:44] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.4090157460223054
-[21:51:44] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.932054251976524
-[21:51:44] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.4988689362619425
-[21:51:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.29697020322805656
-[21:51:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9577811816845951
-[21:51:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.6206960668657757
-[21:51:46] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2847367105880494
-[21:52:44] [Server thread/INFO]: [Not Secure] <Yazuuxs> -1106 -1223
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.28248043983404614
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7161105309709228
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.230617786921016
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.5341684074110162
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.282382067897629
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9343921395328039
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.5893348823050246
-[21:55:41] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.245846838931527
-[21:55:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2992833472130769
-[21:55:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.6037523331159491
-[21:55:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.25599485076418205
-[21:55:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9087259799276808
-[21:55:47] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5963541995946571
-[21:56:39] [Server thread/INFO]: Yazuuxs drowned
-[21:57:09] [Server thread/INFO]: [Yazuuxs: Set own game mode to Creative Mode]
-[21:57:57] [Server thread/INFO]: [Yazuuxs: Set own game mode to Survival Mode]
-[22:06:24] [Server thread/INFO]: [Not Secure] <Yazuuxs> 874 - 1440
-[23:17:51] [Server thread/INFO]: Yazuuxs was slain by Enderman
-[23:17:57] [Server thread/INFO]: [Yazuuxs: Set own game mode to Creative Mode]
+[02:24:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:24:40] [ServerMain/INFO]: Loaded 1337 recipes
+[02:24:40] [ServerMain/INFO]: Loaded 1448 advancements
+[02:24:40] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:24:40] [Server thread/INFO]: Loading properties
+[02:24:40] [Server thread/INFO]: Default game type: SURVIVAL
+[02:24:40] [Server thread/INFO]: Generating keypair
+[02:24:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:24:41] [Server thread/INFO]: Using epoll channel type
+[02:24:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:24:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:24:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:24:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:24:41] [Server thread/INFO]: Preparing level "world"
+[02:24:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:24:44] [Server thread/INFO]: Time elapsed: 3410 ms
+[02:24:44] [Server thread/INFO]: Done (3.697s)! For help, type "help"
+[02:25:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:26:32] [Server thread/INFO]: Yazuuxs[/172.29.245.172:61851] logged in with entity id 8 at (-597.1570485399576, 63.0, -404.9864799157941)
+[02:26:32] [Server thread/INFO]: Yazuuxs joined the game
+[02:26:33] [Server thread/INFO]: marinette4507[/172.29.35.46:56774] logged in with entity id 202 at (-1098.0962924103724, 125.0, -1218.4616773865414)
+[02:26:33] [Server thread/INFO]: marinette4507 joined the game
+[02:27:59] [Server thread/INFO]: [Not Secure] <Yazuuxs> Cuando me volvia de hacer la granja de hierro
+[02:28:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> encontre un pueblo en la zona de cerezos
+[02:28:16] [Server thread/INFO]: [Not Secure] <marinette4507> ah mira vos
+[02:28:18] [Server thread/INFO]: [Not Secure] <Yazuuxs> por desgracia no anote las coords
+[02:28:18] [Server thread/INFO]: [Not Secure] <marinette4507> mio
+[02:28:20] [Server thread/INFO]: [Not Secure] <Yazuuxs> pipipi
+[02:28:23] [Server thread/INFO]: [Not Secure] <Yazuuxs> to
+[02:28:32] [Server thread/INFO]: [Not Secure] <marinette4507> si lo encuentro me lo quedo
+[02:28:38] [Server thread/INFO]: [Not Secure] <marinette4507> esta dentro de mis terrenos
+[02:28:43] [Server thread/INFO]: [Not Secure] <Yazuuxs> deje una cama afuera de una casa
+[02:28:49] [Server thread/INFO]: [Not Secure] <Yazuuxs> como firma de q estuve ahi
+[02:29:03] [Server thread/INFO]: marinette4507 has made the advancement [Not Today, Thank You]
+[02:29:15] [Server thread/INFO]: [Not Secure] <Yazuuxs> esta en dificil ahora
+[02:29:22] [Server thread/INFO]: [Not Secure] <Yazuuxs> me olvide de avisar
+[02:29:30] [Server thread/INFO]: [Not Secure] <marinette4507> chu matate
+[02:29:41] [Server thread/INFO]: [Not Secure] <Yazuuxs> yyy pa mas desafio
+[02:29:43] [Server thread/INFO]: [Not Secure] <marinette4507> esa cama puede desaparecer magicamente
+[02:30:09] [Server thread/INFO]: [Not Secure] <Yazuuxs> creo q vi de lejos tu casa
+[02:30:10] [Server thread/INFO]: [Not Secure] <Yazuuxs> bah
+[02:30:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> vi antorchas fndgnsd
+[02:30:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> y como andaba llevando 6 stack de hierro no corri el riesgo de ir
+[02:30:41] [Server thread/INFO]: [Not Secure] <marinette4507> kahdsfkja
+[02:30:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> me mato un enderman cuando estaba a nada de llegar a mi base igual
+[02:31:12] [Server thread/INFO]: [Not Secure] <Yazuuxs> flasho q lo mire y me bananeo de 4 golpes
+[02:31:25] [Server thread/INFO]: [Not Secure] <marinette4507> por gay
+[02:31:37] [Server thread/INFO]: [Not Secure] <Yazuuxs> es q se ofendio por q yo era hetero
+[02:31:40] [Server thread/INFO]: [Not Secure] <Yazuuxs> en el mes gay
+[02:31:45] [Server thread/INFO]: [Not Secure] <marinette4507> si aja
+[02:31:52] [Server thread/INFO]: [Not Secure] <Yazuuxs> ahi entendi por q tmb se enojo la brisa ese dia
+[02:31:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> perdon por ser tan normal
+[02:32:03] [Server thread/INFO]: [Not Secure] <Yazuuxs> me siento culpable
+[02:32:20] [Server thread/INFO]: [Not Secure] <marinette4507> JAJAJA decilo enfrente de ella pue
+[02:32:22] [Server thread/INFO]: [Not Secure] <marinette4507> que tanto
+[02:32:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> d1 pue
+[02:32:32] [Server thread/INFO]: [Not Secure] <Yazuuxs> mira si le voy a tener miedo
+[02:32:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> yo temerle a los gays?
+[02:32:53] [Server thread/INFO]: [Not Secure] <Yazuuxs> ni a palo
+[02:33:16] [Server thread/INFO]: [Not Secure] <marinette4507> ya veremos el lunes
+[02:33:33] [Server thread/INFO]: [Not Secure] <Yazuuxs> aja
+[02:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1094, y=120, z=-1220} jh{x=-1092, y=120, z=-1220}
+[02:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1094, y=120, z=-1220} jh{x=-1092, y=120, z=-1220}
+[02:35:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> unos de los q lleva llama
+[02:35:06] [Server thread/INFO]: [Not Secure] <Yazuuxs> me salto todos los cultivos
+[02:35:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> q hdp
+[02:35:26] [Server thread/INFO]: [Not Secure] <marinette4507> akshdkfa
+[02:35:45] [Server thread/INFO]: [Not Secure] <Yazuuxs> encima por matarlo dio como 6 saltos
+[02:35:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> dio mio
+[02:40:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-975, y=69, z=-1201} jh{x=-977, y=67, z=-1202}
