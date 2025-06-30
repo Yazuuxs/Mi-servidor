@@ -82,3 +82,12 @@
 [06:25:36] [Server thread/INFO]: [Not Secure] <Yazuuxs> -98 -29
 [06:31:49] [Server thread/INFO]: marinette4507 hit the ground too hard
 [06:31:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-243, y=62, z=-76} jh{x=-267, y=63, z=-109}
+[06:34:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-252, y=45, z=-129} jh{x=-260, y=57, z=-149}
+[06:34:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-248, y=62, z=-158} jh{x=-249, y=60, z=-162}
+[06:35:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-236, y=69, z=-205} jh{x=-237, y=80, z=-233}
+[06:37:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-233, y=85, z=-242} jh{x=-208, y=62, z=-429}
+[06:37:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-206, y=54, z=-439} jh{x=-206, y=52, z=-439}
+[06:40:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-147, y=86, z=-529} jh{x=-143, y=84, z=-529}
+[06:40:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-111, y=64, z=-523} jh{x=-111, y=63, z=-523}
+[06:41:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-105, y=55, z=-517} jh{x=-106, y=57, z=-518}
+[06:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=51, z=-456} jh{x=-97, y=49, z=-456}
