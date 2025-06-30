@@ -108,3 +108,19 @@
 [07:19:39] [Server thread/INFO]: [Not Secure] <Yazuuxs> -500 -343
 [07:20:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> -470 -340
 [07:20:18] [Server thread/INFO]: [Not Secure] <DemianWeinZ> T
+[07:39:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-519, y=60, z=-368} jh{x=-519, y=61, z=-368}
+[07:39:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-519, y=60, z=-369} jh{x=-519, y=61, z=-369}
+[07:39:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-518, y=60, z=-368} jh{x=-518, y=58, z=-368}
+[07:39:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-516, y=56, z=-365} jh{x=-516, y=57, z=-365}
+[07:43:34] [Server thread/WARN]: DemianWeinZ moved too quickly! 0.8973217191444292,-1.5642265738245982,-9.876052145495805
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.035069888134956
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.3266868857926397
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.6168817015731634
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.9055774842768756
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 3.192723105681523
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 3.4788023648998774
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.837400084235128,0.0,-9.321172707665596
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.5897649902995,0.0,-9.608088422729395
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.3416721476717157,0.0,-9.897359102716564
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.09531865843951,0.0,-10.190379579674243
+[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -2.85315165863517,0.0,-10.488475956850266
