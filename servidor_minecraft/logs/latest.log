@@ -1,31 +1,35 @@
-[18:03:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:03:03] [ServerMain/INFO]: Loaded 1337 recipes
-[18:03:03] [ServerMain/INFO]: Loaded 1448 advancements
-[18:03:03] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[18:03:03] [Server thread/INFO]: Loading properties
-[18:03:03] [Server thread/INFO]: Default game type: SURVIVAL
-[18:03:03] [Server thread/INFO]: Generating keypair
-[18:03:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:03:03] [Server thread/INFO]: Using epoll channel type
-[18:03:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:03:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:03:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:03:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:03:03] [Server thread/INFO]: Preparing level "world"
-[18:03:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:03:09] [Server thread/INFO]: Time elapsed: 5381 ms
-[18:03:09] [Server thread/INFO]: Done (5.750s)! For help, type "help"
-[18:04:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:04:34] [Server thread/INFO]: Yazuuxs[/172.29.245.172:60268] logged in with entity id 8 at (-602.2731293639423, 63.0, -392.4971465922385)
-[18:04:34] [Server thread/INFO]: Yazuuxs joined the game
+[03:41:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:41:28] [ServerMain/INFO]: Loaded 1337 recipes
+[03:41:28] [ServerMain/INFO]: Loaded 1448 advancements
+[03:41:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:41:28] [Server thread/INFO]: Loading properties
+[03:41:28] [Server thread/INFO]: Default game type: SURVIVAL
+[03:41:28] [Server thread/INFO]: Generating keypair
+[03:41:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:41:29] [Server thread/INFO]: Using epoll channel type
+[03:41:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:41:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:41:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:41:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:41:29] [Server thread/INFO]: Preparing level "world"
+[03:41:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:41:35] [Server thread/INFO]: Time elapsed: 5707 ms
+[03:41:35] [Server thread/INFO]: Done (6.029s)! For help, type "help"
+[03:42:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:42:58] [Server thread/INFO]: Yazuuxs[/172.29.245.172:57860] logged in with entity id 8 at (-584.610104445061, 64.0, -413.78934768140107)
+[03:42:58] [Server thread/INFO]: Yazuuxs joined the game
+[03:44:10] [Server thread/INFO]: marinette4507[/172.29.35.46:56246] logged in with entity id 438 at (-1099.3433159963429, 124.0, -1219.8413276979988)
+[03:44:10] [Server thread/INFO]: marinette4507 joined the game
+[03:44:29] [Server thread/INFO]: [Not Secure] <marinette4507> gay
