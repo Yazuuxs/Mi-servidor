@@ -2072,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-06-30 04:10:30 +0000"
@@ -2090,6 +2096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2025-06-30 05:49:34 +0000"
@@ -2102,6 +2114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 04:10:30 +0000"
@@ -2111,6 +2129,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-30 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
     },
     "done": true
   },
@@ -2129,6 +2153,24 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-06-30 05:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-30 07:11:44 +0000"
     },
     "done": true
   },
@@ -2156,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 04:10:30 +0000"
@@ -2180,6 +2228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-30 07:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-06-30 04:10:30 +0000"
@@ -2192,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-30 05:47:34 +0000"
@@ -2201,6 +2261,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-30 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 07:21:44 +0000"
     },
     "done": true
   },
