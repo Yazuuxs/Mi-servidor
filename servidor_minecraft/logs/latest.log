@@ -61,3 +61,18 @@
 [05:41:23] [Server thread/INFO]: [Yazuuxs: Teleported DemianWeinZ to Yazuuxs]
 [05:44:56] [Server thread/INFO]: marinette4507 tried to swim in lava
 [05:55:05] [Server thread/INFO]: marinette4507 has made the advancement [Suit Up]
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-84, y=113, z=-48} jh{x=-87, y=112, z=-48}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-84, y=113, z=-48} jh{x=-87, y=112, z=-48}
+[06:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=86, z=-36} jh{x=-95, y=86, z=-35}
+[06:18:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=86, z=-36} jh{x=-97, y=91, z=-38}
+[06:18:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=94, z=-43} jh{x=-98, y=96, z=-42}
+[06:20:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-94, y=89, z=-37} jh{x=-97, y=92, z=-41}
+[06:20:25] [Server thread/INFO]: marinette4507 was blown up by Creeper
+[06:20:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-96, y=96, z=-42} jh{x=-94, y=98, z=-44}
+[06:20:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-94, y=99, z=-46} jh{x=-94, y=100, z=-45}
+[06:21:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=95, z=-42} jh{x=-96, y=103, z=-47}
+[06:22:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=95, z=-42} jh{x=-89, y=111, z=-48}
+[06:22:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=95, z=-42} jh{x=-83, y=117, z=-48}
+[06:22:41] [Server thread/INFO]: marinette4507 was shot by Skeleton
+[06:22:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-91, y=110, z=-48} jh{x=-96, y=105, z=-48}
+[06:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=86, z=-36} jh{x=-95, y=85, z=-34}
