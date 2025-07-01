@@ -1,142 +1,29 @@
-[03:41:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:41:28] [ServerMain/INFO]: Loaded 1337 recipes
-[03:41:28] [ServerMain/INFO]: Loaded 1448 advancements
-[03:41:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:41:28] [Server thread/INFO]: Loading properties
-[03:41:28] [Server thread/INFO]: Default game type: SURVIVAL
-[03:41:28] [Server thread/INFO]: Generating keypair
-[03:41:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:41:29] [Server thread/INFO]: Using epoll channel type
-[03:41:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:41:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:41:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:41:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:41:29] [Server thread/INFO]: Preparing level "world"
-[03:41:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:35] [Server thread/INFO]: Time elapsed: 5707 ms
-[03:41:35] [Server thread/INFO]: Done (6.029s)! For help, type "help"
-[03:42:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:42:58] [Server thread/INFO]: Yazuuxs[/172.29.245.172:57860] logged in with entity id 8 at (-584.610104445061, 64.0, -413.78934768140107)
-[03:42:58] [Server thread/INFO]: Yazuuxs joined the game
-[03:44:10] [Server thread/INFO]: marinette4507[/172.29.35.46:56246] logged in with entity id 438 at (-1099.3433159963429, 124.0, -1219.8413276979988)
-[03:44:10] [Server thread/INFO]: marinette4507 joined the game
-[03:44:29] [Server thread/INFO]: [Not Secure] <marinette4507> gay
-[03:53:22] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:63273] logged in with entity id 4963 at (884.0377228500159, 71.9375, -1448.3400213435455)
-[03:53:22] [Server thread/INFO]: DemianWeinZ joined the game
-[03:59:46] [Server thread/INFO]: DemianWeinZ has made the advancement [Cover Me with Diamonds]
-[04:08:52] [Server thread/INFO]: marinette4507 was shot by Skeleton
-[04:09:05] [Server thread/INFO]: [Not Secure] <Yazuuxs> llamada q tanto
-[04:10:01] [Server thread/INFO]: [Not Secure] <Yazuuxs> estamos en disc con damian
-[04:10:46] [Server thread/INFO]: [Not Secure] <marinette4507> ok
-[04:41:40] [Server thread/INFO]: [Not Secure] <DemianWeinZ> no duerma gila
-[04:42:12] [Server thread/INFO]: [Not Secure] <marinette4507> Por que?
-[04:42:17] [Server thread/INFO]: [Not Secure] <Yazuuxs> xp
-[04:42:32] [Server thread/INFO]: [Not Secure] <marinette4507> ah xd
-[04:57:38] [Server thread/INFO]: marinette4507 has made the advancement [Ice Bucket Challenge]
-[05:05:39] [Server thread/INFO]: marinette4507 was doomed to fall by Skeleton
-[05:05:52] [Server thread/INFO]: [Not Secure] <Yazuuxs> chaaa
-[05:06:14] [Server thread/INFO]: [Not Secure] <marinette4507> matate
-[05:06:18] [Server thread/INFO]: [Not Secure] <Yazuuxs> apura
-[05:06:25] [Server thread/INFO]: [Not Secure] <Yazuuxs> q el sv despues de un tiempo borra cosas
-[05:06:37] [Server thread/INFO]: [Not Secure] <marinette4507> sise
-[05:09:24] [Server thread/INFO]: marinette4507 was shot by Skeleton
-[05:09:36] [Server thread/INFO]: [Not Secure] <DemianWeinZ> por dawn
-[05:21:26] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[05:27:01] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[05:32:48] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[05:37:03] [Server thread/INFO]: marinette4507 has made the advancement [Diamonds!]
-[05:38:08] [Server thread/INFO]: marinette4507 was slain by Zombie
-[05:41:23] [Server thread/INFO]: [Yazuuxs: Teleported DemianWeinZ to Yazuuxs]
-[05:44:56] [Server thread/INFO]: marinette4507 tried to swim in lava
-[05:55:05] [Server thread/INFO]: marinette4507 has made the advancement [Suit Up]
-[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-84, y=113, z=-48} jh{x=-87, y=112, z=-48}
-[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-84, y=113, z=-48} jh{x=-87, y=112, z=-48}
-[06:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=86, z=-36} jh{x=-95, y=86, z=-35}
-[06:18:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=86, z=-36} jh{x=-97, y=91, z=-38}
-[06:18:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=94, z=-43} jh{x=-98, y=96, z=-42}
-[06:20:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-94, y=89, z=-37} jh{x=-97, y=92, z=-41}
-[06:20:25] [Server thread/INFO]: marinette4507 was blown up by Creeper
-[06:20:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-96, y=96, z=-42} jh{x=-94, y=98, z=-44}
-[06:20:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-94, y=99, z=-46} jh{x=-94, y=100, z=-45}
-[06:21:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=95, z=-42} jh{x=-96, y=103, z=-47}
-[06:22:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=95, z=-42} jh{x=-89, y=111, z=-48}
-[06:22:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=95, z=-42} jh{x=-83, y=117, z=-48}
-[06:22:41] [Server thread/INFO]: marinette4507 was shot by Skeleton
-[06:22:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-91, y=110, z=-48} jh{x=-96, y=105, z=-48}
-[06:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=86, z=-36} jh{x=-95, y=85, z=-34}
-[06:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-95, y=83, z=-35} jh{x=-95, y=82, z=-34}
-[06:24:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-95, y=83, z=-33} jh{x=-95, y=81, z=-33}
-[06:24:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-95, y=83, z=-33} jh{x=-95, y=80, z=-33}
-[06:25:36] [Server thread/INFO]: [Not Secure] <Yazuuxs> -98 -29
-[06:31:49] [Server thread/INFO]: marinette4507 hit the ground too hard
-[06:31:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-243, y=62, z=-76} jh{x=-267, y=63, z=-109}
-[06:34:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-252, y=45, z=-129} jh{x=-260, y=57, z=-149}
-[06:34:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-248, y=62, z=-158} jh{x=-249, y=60, z=-162}
-[06:35:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-236, y=69, z=-205} jh{x=-237, y=80, z=-233}
-[06:37:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-233, y=85, z=-242} jh{x=-208, y=62, z=-429}
-[06:37:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-206, y=54, z=-439} jh{x=-206, y=52, z=-439}
-[06:40:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-147, y=86, z=-529} jh{x=-143, y=84, z=-529}
-[06:40:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-111, y=64, z=-523} jh{x=-111, y=63, z=-523}
-[06:41:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-105, y=55, z=-517} jh{x=-106, y=57, z=-518}
-[06:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-97, y=51, z=-456} jh{x=-97, y=49, z=-456}
-[06:44:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-101, y=60, z=-446} jh{x=21, y=95, z=-295}
-[06:45:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=41, y=71, z=-184} jh{x=41, y=70, z=-185}
-[06:47:46] [Server thread/INFO]: Yazuuxs has made the advancement [A Terrible Fortress]
-[06:50:21] [Server thread/INFO]: marinette4507 was slain by Zombie
-[06:50:47] [Server thread/INFO]: Yazuuxs has made the advancement [Into Fire]
-[06:55:07] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[06:56:10] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[06:57:00] [Server thread/INFO]: DemianWeinZ has made the advancement [What a Deal!]
-[07:11:19] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[07:14:21] [Server thread/INFO]: marinette4507 tried to swim in lava
-[07:15:14] [Server thread/INFO]: marinette4507 lost connection: Disconnected
-[07:15:14] [Server thread/INFO]: marinette4507 left the game
-[07:17:11] [Server thread/INFO]: [Not Secure] <Yazuuxs> -450 -340
-[07:17:25] [Server thread/INFO]: [Not Secure] <Yazuuxs> -24 de altura
-[07:19:39] [Server thread/INFO]: [Not Secure] <Yazuuxs> -500 -343
-[07:20:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> -470 -340
-[07:20:18] [Server thread/INFO]: [Not Secure] <DemianWeinZ> T
-[07:39:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-519, y=60, z=-368} jh{x=-519, y=61, z=-368}
-[07:39:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-519, y=60, z=-369} jh{x=-519, y=61, z=-369}
-[07:39:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-518, y=60, z=-368} jh{x=-518, y=58, z=-368}
-[07:39:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-516, y=56, z=-365} jh{x=-516, y=57, z=-365}
-[07:43:34] [Server thread/WARN]: DemianWeinZ moved too quickly! 0.8973217191444292,-1.5642265738245982,-9.876052145495805
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.035069888134956
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.3266868857926397
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.6168817015731634
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 2.9055774842768756
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 3.192723105681523
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 3.4788023648998774
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.837400084235128,0.0,-9.321172707665596
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.5897649902995,0.0,-9.608088422729395
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.3416721476717157,0.0,-9.897359102716564
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -3.09531865843951,0.0,-10.190379579674243
-[07:43:54] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -2.85315165863517,0.0,-10.488475956850266
-[07:45:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-580, y=49, z=-649} jh{x=-580, y=48, z=-649}
-[07:47:58] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -1.8823558047930646,0.0,10.049427788569346
-[07:47:58] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -2.0998784154828627,0.0,10.349472874841695
-[07:47:58] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! -2.3277083921593658,0.0,10.643433726192143
-[07:47:59] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! 7.334752392729911,0.0,-7.377909001881562
-[07:47:59] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! 7.334752392729911,0.0,-7.377909001881562
-[07:47:59] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! 7.334752392729911,0.0,-7.377909001881562
-[07:47:59] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved too quickly! 7.049220090703898,0.0,-7.101864239230281
-[08:48:43] [Server thread/INFO]: Yazuuxs has made the advancement [What a Deal!]
-[08:51:34] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[08:54:36] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[09:03:58] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[09:23:10] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[09:28:17] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[09:33:01] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[09:35:17] [Server thread/WARN]: Birch Boat (vehicle of DemianWeinZ) moved wrongly! 0.28696679772906464
+[23:02:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:02:36] [ServerMain/INFO]: Loaded 1337 recipes
+[23:02:36] [ServerMain/INFO]: Loaded 1448 advancements
+[23:02:37] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:02:37] [Server thread/INFO]: Loading properties
+[23:02:37] [Server thread/INFO]: Default game type: SURVIVAL
+[23:02:37] [Server thread/INFO]: Generating keypair
+[23:02:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:02:37] [Server thread/INFO]: Using epoll channel type
+[23:02:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:02:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:02:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:02:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:02:37] [Server thread/INFO]: Preparing level "world"
+[23:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:02:41] [Server thread/INFO]: Time elapsed: 3482 ms
+[23:02:41] [Server thread/INFO]: Done (3.782s)! For help, type "help"
+[23:03:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:04:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@56b933f0[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
+[23:05:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a5b27f8[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
+[23:05:29] [Server thread/INFO]: Yazuuxs[/172.29.245.172:62823] logged in with entity id 8 at (891.3433592421344, 72.0, -1452.9088659897366)
+[23:05:29] [Server thread/INFO]: Yazuuxs joined the game
