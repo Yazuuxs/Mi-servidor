@@ -2598,6 +2598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-07-02 13:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-07-02 13:10:57 +0000"
@@ -2625,6 +2631,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-07-02 13:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-07-02 13:24:44 +0000"
     },
     "done": true
   },
