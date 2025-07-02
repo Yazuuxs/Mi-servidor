@@ -84,3 +84,8 @@
 [14:07:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.9790094297825362
 [14:07:46] [Server thread/WARN]: DemianWeinZ moved too quickly! 9.089592586894582,2.024424088213692,3.981647816521445
 [14:09:21] [Server thread/WARN]: DemianWeinZ moved too quickly! -0.9482430707438425,0.0,9.960316925746099
+[14:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1086, y=71, z=-1089} jh{x=-1086, y=69, z=-1089}
+[14:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1088, y=70, z=-1089} jh{x=-1088, y=69, z=-1090}
+[14:18:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1079, y=71, z=-1096} jh{x=-1079, y=69, z=-1095}
+[14:18:53] [Server thread/INFO]: DemianWeinZ has made the advancement [Voluntary Exile]
+[14:22:18] [Server thread/INFO]: marinette4507 was blown up by Creeper
