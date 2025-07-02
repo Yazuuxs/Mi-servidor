@@ -1,124 +1,124 @@
-[23:02:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:02:36] [ServerMain/INFO]: Loaded 1337 recipes
-[23:02:36] [ServerMain/INFO]: Loaded 1448 advancements
-[23:02:37] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:02:37] [Server thread/INFO]: Loading properties
-[23:02:37] [Server thread/INFO]: Default game type: SURVIVAL
-[23:02:37] [Server thread/INFO]: Generating keypair
-[23:02:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:02:37] [Server thread/INFO]: Using epoll channel type
-[23:02:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:02:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:02:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:02:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:02:37] [Server thread/INFO]: Preparing level "world"
-[23:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:02:41] [Server thread/INFO]: Time elapsed: 3482 ms
-[23:02:41] [Server thread/INFO]: Done (3.782s)! For help, type "help"
-[23:03:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:04:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@56b933f0[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:05:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a5b27f8[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:05:29] [Server thread/INFO]: Yazuuxs[/172.29.245.172:62823] logged in with entity id 8 at (891.3433592421344, 72.0, -1452.9088659897366)
-[23:05:29] [Server thread/INFO]: Yazuuxs joined the game
-[23:16:19] [Server thread/INFO]: marinette4507[/172.29.35.46:50332] logged in with entity id 3036 at (-1101.9130499967541, 124.0, -1219.6589577153418)
-[23:16:19] [Server thread/INFO]: marinette4507 joined the game
-[23:16:32] [Server thread/INFO]: [Not Secure] <Yazuuxs> matate
-[23:16:45] [Server thread/INFO]: [Not Secure] <marinette4507> morite
-[23:16:53] [Server thread/INFO]: [Not Secure] <Yazuuxs> jamas
-[23:16:59] [Server thread/INFO]: [Not Secure] <Yazuuxs> es de gays morir
-[23:17:04] [Server thread/INFO]: [Not Secure] <Yazuuxs> mas en un juego
-[23:17:09] [Server thread/INFO]: [Not Secure] <marinette4507> andate a la mierda
-[23:18:17] [Server thread/INFO]: [Not Secure] <Yazuuxs> como no vas a ir a clase ayer
-[23:18:20] [Server thread/INFO]: [Not Secure] <Yazuuxs> q verguenza
-[23:19:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@6dde3db1[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:20:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e84dc8a[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:23:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@10684fb6[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:24:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@54fe1cdc[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:25:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@1af0c620[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:25:40] [Server thread/INFO]: [Not Secure] <marinette4507> ayeya
-[23:25:48] [Server thread/INFO]: [Not Secure] <marinette4507> mucho frio para ir ayer
-[23:25:49] [Server thread/INFO]: [Not Secure] <Yazuuxs> q
-[23:25:51] [Server thread/INFO]: [Not Secure] <Yazuuxs> bah
-[23:25:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> yo como buen estudiante si fui
-[23:26:04] [Server thread/INFO]: [Not Secure] <Yazuuxs> di catedra
-[23:26:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f1ac379[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:26:14] [Server thread/INFO]: [Not Secure] <marinette4507> el que se lleva materias
-[23:26:30] [Server thread/INFO]: [Not Secure] <Yazuuxs> shhh
-[23:26:36] [Server thread/INFO]: [Not Secure] <Yazuuxs> nadie menciono materias
-[23:27:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@42250174[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:28:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d218df[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:29:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@7785230b[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:30:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@73ecc69f[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
-[23:34:13] [Server thread/WARN]: marinette4507 moved too quickly! 1.96114819030322,-7.0,-7.114243644780572
-[23:39:26] [Server thread/INFO]: mata-gays[/172.29.103.188:56994] logged in with entity id 12514 at (-5.5, 85.0, 2.5)
-[23:39:26] [Server thread/INFO]: mata-gays joined the game
-[23:39:59] [Server thread/INFO]: [Not Secure] <Yazuuxs> recien veo q si pudo xd
-[23:40:10] [Server thread/INFO]: [Yazuuxs: Teleported mata-gays to Yazuuxs]
-[23:40:15] [Server thread/INFO]: [Not Secure] <Yazuuxs> un nombre mas hetero no habia
-[23:40:28] [Server thread/INFO]: [Not Secure] <Yazuuxs> armadura en el cofre
-[23:40:45] [Server thread/INFO]: [Not Secure] <Yazuuxs> con la t abris el chat
-[23:40:55] [Server thread/INFO]: [Not Secure] <marinette4507> cierto que no sabe
-[23:41:02] [Server thread/INFO]: [Not Secure] <Yazuuxs> es mudo momentaneo
-[23:41:03] [Server thread/INFO]: mata-gays has made the advancement [Acquire Hardware]
-[23:41:09] [Server thread/INFO]: [Not Secure] <marinette4507> le hubieras dicho que si no habla en 1 minuto era gay
-[23:41:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> aca abajo en este
-[23:41:17] [Server thread/INFO]: [Not Secure] <Yazuuxs> hay mas
-[23:41:18] [Server thread/INFO]: [Not Secure] <Yazuuxs> xd
-[23:41:20] [Server thread/INFO]: [Not Secure] <Yazuuxs> es verdad
-[23:41:49] [Server thread/INFO]: mata-gays lost connection: Disconnected
-[23:41:49] [Server thread/INFO]: mata-gays left the game
-[23:41:54] [Server thread/INFO]: [Not Secure] <marinette4507> JAJAJAJA
-[23:41:55] [Server thread/INFO]: [Not Secure] <Yazuuxs> se le ripeo el inter
-[23:41:56] [Server thread/INFO]: [Not Secure] <Yazuuxs> xd
-[23:42:10] [Server thread/INFO]: mata-gays[/172.29.103.188:57477] logged in with entity id 14038 at (-432.3233574026533, -47.0, -335.39719277320404)
-[23:42:10] [Server thread/INFO]: mata-gays joined the game
-[23:42:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> veni
-[23:42:40] [Server thread/INFO]: [Not Secure] <mata-gays> como tiro las cosas
-[23:42:59] [Server thread/INFO]: [Not Secure] <marinette4507> q
-[23:43:05] [Server thread/INFO]: [Not Secure] <Yazuuxs> vos no
-[23:43:12] [Server thread/INFO]: [Not Secure] <marinette4507> con Q
-[23:43:23] [Server thread/INFO]: [Not Secure] <Yazuuxs> no q habias jugado antes
-[23:43:26] [Server thread/INFO]: mata-gays lost connection: Timed out
-[23:43:26] [Server thread/INFO]: mata-gays left the game
-[23:43:28] [Server thread/INFO]: [Not Secure] <Yazuuxs> xd
-[23:43:43] [Server thread/INFO]: [Not Secure] <Yazuuxs> le va lageadisimo
-[23:43:51] [Server thread/INFO]: mata-gays[/172.29.103.188:57587] logged in with entity id 15329 at (-428.9277385195585, -46.0, -335.868196617336)
-[23:43:51] [Server thread/INFO]: mata-gays joined the game
-[23:44:36] [Server thread/INFO]: mata-gays lost connection: Timed out
-[23:44:36] [Server thread/INFO]: mata-gays left the game
-[23:48:10] [Server thread/INFO]: mata-gays[/172.29.103.188:58354] logged in with entity id 17881 at (-428.8634866882217, -46.0, -335.9473845895944)
-[23:48:10] [Server thread/INFO]: mata-gays joined the game
-[23:48:10] [Server thread/INFO]: marinette4507 fell from a high place
-[23:48:19] [Server thread/INFO]: [Not Secure] <Yazuuxs> sjafjsdbafsa
-[23:48:27] [Server thread/INFO]: [Not Secure] <mata-gays> daun
-[23:48:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> como te vas a morir marine
-[23:48:38] [Server thread/INFO]: mata-gays has made the advancement [Monster Hunter]
-[23:49:20] [Server thread/WARN]: mata-gays moved too quickly! -0.2684816936243237,9.966134349883239,2.7506545217560188
-[23:49:55] [Server thread/INFO]: mata-gays lost connection: Timed out
-[23:49:55] [Server thread/INFO]: mata-gays left the game
-[23:51:06] [Server thread/INFO]: mata-gays[/172.29.103.188:54228] logged in with entity id 19552 at (-470.69999998807907, -10.23386565011676, -340.30000001192093)
-[23:51:06] [Server thread/INFO]: mata-gays joined the game
-[23:51:30] [Server thread/WARN]: mata-gays moved too quickly! 0.0,10.425000025033953,0.0
-[23:51:34] [Server thread/WARN]: mata-gays moved too quickly! 0.0,10.400000033378594,0.0
-[23:52:04] [Server thread/WARN]: mata-gays moved too quickly! 0.0,10.167907493688784,0.0
-[23:52:07] [Server thread/WARN]: mata-gays moved too quickly! 0.0,10.400000033378646,0.0
-[23:52:16] [Server thread/INFO]: [Not Secure] <Yazuuxs> al fin
-[23:52:30] [Server thread/INFO]: [Not Secure] <mata-gays> subi 30 veces
-[23:52:47] [Server thread/WARN]: mata-gays moved too quickly! -8.314843528272547,6.0625,1.3280680887731364
-[23:52:54] [Server thread/WARN]: mata-gays moved too quickly! -9.682962950424496,-2.733632006042484,0.11658533939305471
-[23:54:01] [Server thread/INFO]: mata-gays has made the advancement [Diamonds!]
-[23:54:09] [Server thread/INFO]: mata-gays has made the advancement [Into Fire]
-[23:54:47] [Server thread/INFO]: mata-gays has made the advancement [Isn't It Iron Pick]
-[23:56:51] [Server thread/INFO]: [Not Secure] <mata-gays> solo con el scp se cierran los cofres
-[23:56:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> q
-[23:57:08] [Server thread/INFO]: [Not Secure] <mata-gays> esc
-[23:57:12] [Server thread/INFO]: [Not Secure] <Yazuuxs> aaa si
-[23:58:22] [Server thread/INFO]: mata-gays lost connection: Timed out
-[23:58:22] [Server thread/INFO]: mata-gays left the game
+[00:06:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@7afe79fa[id=5fd23903-285b-32bb-b975-970307d6e26f,name=mata-gays,properties={}] lost connection: Timed out
+[00:11:05] [Server thread/INFO]: mata-gays[/172.29.103.188:63118] logged in with entity id 30899 at (-594.2504159857791, 63.0, -398.77417755110565)
+[00:11:05] [Server thread/INFO]: mata-gays joined the game
+[00:13:22] [Server thread/WARN]: mata-gays moved too quickly! -2.4892370344798564,-1.0,-9.634709463816591
+[00:13:48] [Server thread/INFO]: [Not Secure] <mata-gays> es venezuela o porque no hay comida
+[00:13:57] [Server thread/INFO]: [Not Secure] <Yazuuxs> hay en el horno
+[00:14:25] [Server thread/INFO]: [Not Secure] <Yazuuxs> y hay 2 millones de papas
+[00:14:30] [Server thread/INFO]: [Not Secure] <Yazuuxs> en el cofre de las papas
+[00:14:39] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.3039842137314963
+[00:14:39] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.9598515441559812
+[00:14:39] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.6149310870783324
+[00:14:39] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.2688969212987331
+[00:14:39] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.9221411494135054
+[00:14:45] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.2769374359187964
+[00:14:45] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.40236874077612583
+[00:14:45] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.5
+[00:14:45] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.29975228746349103
+[00:14:45] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.38178260680877224
+[00:14:45] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.477675063871402
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.5
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.301075972910553
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.7619343597651209
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.39838659761193185
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.5
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.2963129814604031
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.3373409025567753
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.5392962526494216
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.30444838471385083
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.3077201196316537
+[00:14:46] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.9099574330342648
+[00:14:51] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.2738919888199689
+[00:14:51] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.7143216644219592
+[00:14:51] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.2409370868565475
+[00:14:51] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.7969684165248054
+[00:14:51] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 2.3231640956192905
+[00:14:51] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 2.7805878861837527
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.2670509041671494
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.6729421575191736
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.2018278006183891
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.5155318734915681
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.234424006174866
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.9186933426231062
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.234424006174866
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.234424006174866
+[00:14:55] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 0.6446855129922744
+[00:14:56] [Server thread/WARN]: Horse (vehicle of mata-gays) moved wrongly! 1.234424006174866
+[00:15:21] [Server thread/INFO]: [Not Secure] <Yazuuxs> por q montas a mbappe
+[00:15:39] [Server thread/INFO]: [Not Secure] <mata-gays> voy muy lento
+[00:15:57] [Server thread/INFO]: [Not Secure] <mata-gays> como bajo
+[00:15:59] [Server thread/INFO]: mata-gays has made the advancement [We Need to Go Deeper]
+[00:16:03] [Server thread/INFO]: [Not Secure] <Yazuuxs> shift
+[00:17:24] [Server thread/INFO]: [Not Secure] <mata-gays> me puedo hacer armadura de diamante
+[00:17:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> si
+[00:17:37] [Server thread/INFO]: [Not Secure] <Yazuuxs> el diamante perdio su valor aca en java
+[00:17:43] [Server thread/INFO]: [Not Secure] <Yazuuxs> giles nms no tienen
+[00:17:46] [Server thread/INFO]: [Not Secure] <Yazuuxs> como la marine por ej
+[00:17:52] [Server thread/INFO]: [Not Secure] <mata-gays> xd
+[00:17:54] [Server thread/INFO]: [Not Secure] <marinette4507> matate
+[00:18:16] [Server thread/INFO]: mata-gays has made the advancement [Cover Me with Diamonds]
+[00:19:02] [Server thread/INFO]: [Not Secure] <Yazuuxs> che marine
+[00:19:09] [Server thread/INFO]: [Not Secure] <Yazuuxs> desde q tengo la vieja guardia
+[00:19:09] [Server thread/INFO]: [Not Secure] <marinette4507> mande
+[00:19:11] [Server thread/INFO]: [Not Secure] <mata-gays> matate
+[00:19:14] [Server thread/INFO]: [Not Secure] <Yazuuxs> soy respetado en los sv
+[00:19:21] [Server thread/INFO]: [Not Secure] <Yazuuxs> el primero en ser bendecido
+[00:19:25] [Server thread/INFO]: [Not Secure] <Yazuuxs> el primero en ser curado
+[00:19:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> es un ganar al 100/100
+[00:19:36] [Server thread/INFO]: mata-gays lost connection: Timed out
+[00:19:36] [Server thread/INFO]: mata-gays left the game
+[00:19:37] [Server thread/INFO]: [Not Secure] <marinette4507> como se sabe que alguien tiene la vieja guardia?
+[00:19:44] [Server thread/INFO]: [Not Secure] <Yazuuxs> el sombrero
+[00:19:49] [Server thread/INFO]: [Not Secure] <Yazuuxs> es mas grande y tiene un aguila
+[00:19:51] [Server thread/INFO]: [Not Secure] <Yazuuxs> ademas
+[00:19:53] [Server thread/INFO]: [Not Secure] <marinette4507> aah que gay
+[00:19:55] [Server thread/INFO]: [Not Secure] <Yazuuxs> es el unico q tiene
+[00:20:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> las hombreras de color rojo
+[00:20:12] [Server thread/INFO]: mata-gays[/172.29.103.188:52976] logged in with entity id 36108 at (-595.9802047314132, 63.0, -397.87978112742434)
+[00:20:12] [Server thread/INFO]: mata-gays joined the game
+[00:20:26] [Server thread/INFO]: [Not Secure] <Yazuuxs> aaa
+[00:20:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> tmb
+[00:20:31] [Server thread/INFO]: [Not Secure] <mata-gays> no discor
+[00:20:42] [Server thread/INFO]: [Not Secure] <Yazuuxs> la parte de arribe del sombrero tiene un alacran algo asi
+[00:20:42] [Server thread/INFO]: mata-gays lost connection: Timed out
+[00:20:42] [Server thread/INFO]: mata-gays left the game
+[00:20:55] [Server thread/INFO]: [Not Secure] <Yazuuxs> quiere discord el gil y no tiene inter ni pa el sv
+[00:21:00] [Server thread/INFO]: mata-gays[/172.29.103.188:53145] logged in with entity id 36352 at (-595.9802047314132, 63.0, -397.87978112742434)
+[00:21:00] [Server thread/INFO]: mata-gays joined the game
+[00:21:01] [Server thread/INFO]: [Not Secure] <marinette4507> JAJJAJA
+[00:22:32] [Server thread/INFO]: [Not Secure] <Yazuuxs> tenes la cuerda?
+[00:22:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5849927380039048
+[00:22:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.1981617031108271
+[00:22:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.8001675988803072
+[00:22:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.381614916824958
+[00:22:38] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.942005263424903
+[00:22:42] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.26470581506794133
+[00:22:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5901562184768636
+[00:22:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0631817911010444
+[00:22:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.7253283724271
+[00:22:43] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0631817911010444
+[00:22:45] [Server thread/INFO]: mata-gays lost connection: Timed out
+[00:22:45] [Server thread/INFO]: mata-gays left the game
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.26644153527621484
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5833853822791184
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.8024107268304874
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.8077432372393218
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.657769316973031
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.657769316973031
+[00:22:45] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.049848695050514
+[00:22:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> ptm
+[00:23:01] [Server thread/INFO]: mata-gays[/172.29.103.188:53529] logged in with entity id 37298 at (-596.3722853668304, 63.0, -397.9075805849724)
+[00:23:01] [Server thread/INFO]: mata-gays joined the game
+[00:23:04] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.5
+[00:23:04] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2698230420519394
+[00:23:04] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.4164249650093552
+[00:23:04] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.0215351546671627
+[00:23:04] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.6082417522136438
+[00:23:04] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 2.185100954549398
+[00:23:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.2717724284806309
+[00:23:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 0.41260769998507385
+[00:23:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.056673371898114
+[00:23:05] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.4013000716546458
+[00:23:06] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.5857029475791933
+[00:23:06] [Server thread/WARN]: Horse (vehicle of Yazuuxs) moved wrongly! 1.6843732498897452
+[00:23:37] [Server thread/INFO]: [Not Secure] <Yazuuxs> marine vos te unis a la llamda?
