@@ -2554,9 +2554,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-02 01:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-02 01:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-07-01 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-02 01:03:16 +0000"
     },
     "done": true
   },
