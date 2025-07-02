@@ -226,3 +226,8 @@
 [03:05:45] [Server thread/INFO]: [Not Secure] <Yazuuxs> e}
 [03:10:05] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
 [03:10:05] [Server thread/INFO]: Yazuuxs left the game
+[03:27:59] [Server thread/WARN]: DemianWeinZ moved too quickly! -10.089735655483707,-0.41999998688697815,0.39195091383851377
+[03:29:59] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
+[03:29:59] [Server thread/INFO]: DemianWeinZ left the game
+[03:30:17] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:64762] logged in with entity id 129013 at (-504.1867867901953, 69.0, -365.609018067887)
+[03:30:17] [Server thread/INFO]: DemianWeinZ joined the game
