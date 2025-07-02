@@ -2554,5 +2554,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-07-01 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-07-01 23:58:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
