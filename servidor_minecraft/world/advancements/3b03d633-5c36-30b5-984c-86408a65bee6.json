@@ -8,15 +8,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-06-28 03:06:45 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-28 02:35:31 +0000",
       "minecraft:beach": "2025-06-28 02:56:05 +0000",
       "minecraft:forest": "2025-06-28 02:38:56 +0000",
+      "minecraft:taiga": "2025-07-02 00:40:26 +0000",
+      "minecraft:river": "2025-06-28 02:57:23 +0000",
+      "minecraft:stony_shore": "2025-07-02 00:42:55 +0000",
+      "minecraft:dripstone_caves": "2025-06-30 05:16:06 +0000",
+      "minecraft:frozen_peaks": "2025-07-02 00:39:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-28 02:35:31 +0000",
       "minecraft:ocean": "2025-06-28 02:57:20 +0000",
       "minecraft:cherry_grove": "2025-06-28 03:31:56 +0000",
       "minecraft:sunflower_plains": "2025-06-28 03:01:08 +0000",
-      "minecraft:river": "2025-06-28 02:57:23 +0000",
+      "minecraft:grove": "2025-07-02 00:48:56 +0000",
       "minecraft:meadow": "2025-06-28 03:14:09 +0000",
-      "minecraft:dripstone_caves": "2025-06-30 05:16:06 +0000",
       "minecraft:plains": "2025-06-28 02:58:16 +0000"
     },
     "done": false
@@ -1828,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-02 00:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-01 23:44:22 +0000"
@@ -1858,9 +1868,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-02 00:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-01 23:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-02 00:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-02 00:21:56 +0000"
     },
     "done": true
   },
