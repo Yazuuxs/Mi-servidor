@@ -31,3 +31,4 @@
 [12:35:11] [Server thread/WARN]: UUID of added entity already exists: cit['Sheep'/823, l='ServerLevel[world]', x=-753.25, y=73.00, z=-239.47]
 [12:38:01] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:64678] logged in with entity id 2186 at (-861.0980278357026, 58.0, -792.8955795174066)
 [12:38:01] [Server thread/INFO]: DemianWeinZ joined the game
+[12:43:23] [Server thread/WARN]: UUID of added entity already exists: cio['Pig'/5392, l='ServerLevel[world]', x=-452.02, y=64.00, z=-175.93]
