@@ -1,33 +1,9 @@
-[23:39:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:40:00] [ServerMain/INFO]: Loaded 1337 recipes
-[23:40:00] [ServerMain/INFO]: Loaded 1448 advancements
-[23:40:00] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:40:00] [Server thread/INFO]: Loading properties
-[23:40:00] [Server thread/INFO]: Default game type: SURVIVAL
-[23:40:00] [Server thread/INFO]: Generating keypair
-[23:40:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:40:00] [Server thread/INFO]: Using epoll channel type
-[23:40:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:40:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:40:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:40:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:40:00] [Server thread/INFO]: Preparing level "world"
-[23:40:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:40:04] [Server thread/INFO]: Time elapsed: 3415 ms
-[23:40:04] [Server thread/INFO]: Done (3.769s)! For help, type "help"
-[23:41:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:42:59] [Server thread/INFO]: Yazuuxs[/172.29.245.172:52478] logged in with entity id 8 at (-431.712738150817, -46.0, -335.3728994955661)
-[23:42:59] [Server thread/INFO]: Yazuuxs joined the game
-[23:57:34] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:50708] logged in with entity id 1895 at (-604.8455146563406, 64.0, -378.2102407389542)
-[23:57:34] [Server thread/INFO]: DemianWeinZ joined the game
-[23:58:03] [Server thread/INFO]: [Not Secure] <DemianWeinZ> maldito dawn
-[23:58:24] [Server thread/INFO]: [Not Secure] <DemianWeinZ> discord?
-[23:58:35] [Server thread/INFO]: [Not Secure] <Yazuuxs> ok
-[23:58:42] [Server thread/INFO]: [Not Secure] <Yazuuxs> ando viendo el calamar jogo
+[00:14:51] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
+[00:14:51] [Server thread/INFO]: DemianWeinZ left the game
+[00:14:51] [Server thread/WARN]: handleDisconnection() called twice
+[00:15:08] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53343] logged in with entity id 8538 at (-591.2972446845688, 81.0, -369.4684331631959)
+[00:15:08] [Server thread/INFO]: DemianWeinZ joined the game
+[00:18:53] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
+[00:18:53] [Server thread/INFO]: DemianWeinZ left the game
+[00:19:09] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53546] logged in with entity id 9933 at (-592.0644084988428, 66.17675927506424, -374.57668099161606)
+[00:19:09] [Server thread/INFO]: DemianWeinZ joined the game
