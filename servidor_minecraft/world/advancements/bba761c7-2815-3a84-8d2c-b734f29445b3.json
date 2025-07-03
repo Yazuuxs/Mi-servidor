@@ -2588,21 +2588,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-02 14:43:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-02 14:16:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_gold_nugget": "2025-07-02 14:43:20 +0000"
+      "has_honeycomb": "2025-07-02 14:16:35 +0000"
     },
     "done": true
   },
@@ -2618,9 +2612,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_honeycomb": "2025-07-02 14:16:35 +0000"
+      "has_gold_nugget": "2025-07-02 14:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 14:43:20 +0000"
     },
     "done": true
   },
