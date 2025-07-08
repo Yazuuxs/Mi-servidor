@@ -1,44 +1,45 @@
-[00:14:51] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[00:14:51] [Server thread/INFO]: DemianWeinZ left the game
-[00:14:51] [Server thread/WARN]: handleDisconnection() called twice
-[00:15:08] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53343] logged in with entity id 8538 at (-591.2972446845688, 81.0, -369.4684331631959)
-[00:15:08] [Server thread/INFO]: DemianWeinZ joined the game
-[00:18:53] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[00:18:53] [Server thread/INFO]: DemianWeinZ left the game
-[00:19:09] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:53546] logged in with entity id 9933 at (-592.0644084988428, 66.17675927506424, -374.57668099161606)
-[00:19:09] [Server thread/INFO]: DemianWeinZ joined the game
-[00:27:25] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
-[00:27:25] [Server thread/INFO]: DemianWeinZ left the game
-[00:27:40] [Server thread/INFO]: DemianWeinZ[/172.29.64.159:54102] logged in with entity id 12279 at (-551.4654189750808, 67.0, -379.36987457805253)
-[00:27:40] [Server thread/INFO]: DemianWeinZ joined the game
-[00:35:48] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[00:36:40] [Server thread/INFO]: marinette4507[/172.29.35.46:50243] logged in with entity id 15039 at (-1098.699999988079, 70.0, -1104.2479744371067)
-[00:36:40] [Server thread/INFO]: marinette4507 joined the game
-[00:45:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1125, y=64, z=-908} jh{x=-1126, y=62, z=-908}
-[01:03:21] [Server thread/INFO]: marinette4507 lost connection: Disconnected
-[01:03:21] [Server thread/INFO]: marinette4507 left the game
-[01:03:44] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[01:07:06] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
-[01:19:14] [Server thread/INFO]: DemianWeinZ lost connection: Disconnected
-[01:19:14] [Server thread/INFO]: DemianWeinZ left the game
-[01:34:22] [Server thread/INFO]: marinette4507[/172.29.35.46:58662] logged in with entity id 41285 at (-1093.6099628394459, 116.0, -1197.5721224729161)
-[01:34:22] [Server thread/INFO]: marinette4507 joined the game
-[01:35:00] [Server thread/INFO]: [Not Secure] <marinette4507> necesitan la noche?
-[01:35:03] [Server thread/INFO]: [Not Secure] <Yazuuxs> no
-[01:35:08] [Server thread/INFO]: [Not Secure] <Yazuuxs> damian ya no esta xd
-[01:35:15] [Server thread/INFO]: [Not Secure] <marinette4507> ah xd
-[01:35:18] [Server thread/INFO]: [Not Secure] <marinette4507> con razon
-[01:36:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> llamda
-[01:58:33] [Server thread/INFO]: marinette4507 was shot by Pillager
-[01:58:56] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to marinette4507]
-[01:59:23] [Server thread/INFO]: marinette4507 was slain by Yazuuxs
-[02:16:59] [Server thread/INFO]: marinette4507 was blown up by Creeper
-[02:18:32] [Server thread/INFO]: marinette4507 was blown up by Creeper
-[02:22:09] [Server thread/INFO]: marinette4507 was doomed to fall by Zombie
-[02:48:12] [Server thread/INFO]: marinette4507 was shot by Skeleton
-[02:48:52] [Server thread/INFO]: marinette4507 was shot by Skeleton
-[02:49:44] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
-[02:49:44] [Server thread/INFO]: Yazuuxs left the game
-[02:53:24] [Server thread/INFO]: marinette4507 lost connection: Disconnected
-[02:53:24] [Server thread/INFO]: marinette4507 left the game
-[02:54:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:49:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:49:36] [ServerMain/INFO]: Loaded 1337 recipes
+[01:49:36] [ServerMain/INFO]: Loaded 1448 advancements
+[01:49:36] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:49:36] [Server thread/INFO]: Loading properties
+[01:49:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:49:36] [Server thread/INFO]: Generating keypair
+[01:49:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:49:36] [Server thread/INFO]: Using epoll channel type
+[01:49:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:49:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:49:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:49:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:49:36] [Server thread/INFO]: Preparing level "world"
+[01:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:49:42] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[01:49:42] [Server thread/INFO]: Time elapsed: 5408 ms
+[01:49:42] [Server thread/INFO]: Done (5.759s)! For help, type "help"
+[01:50:39] [Server thread/INFO]: Yazuuxs[/172.29.245.172:59030] logged in with entity id 8 at (-594.2733836009262, 70.0, -359.71791973615086)
+[01:50:39] [Server thread/INFO]: Yazuuxs joined the game
+[01:51:25] [Server thread/INFO]: marinette4507[/172.29.35.46:53357] logged in with entity id 416 at (-1066.2363888640214, -43.0, -1005.3000000119209)
+[01:51:25] [Server thread/INFO]: marinette4507 joined the game
+[01:51:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> matate
+[01:51:52] [Server thread/INFO]: [Not Secure] <marinette4507> morite
+[02:11:36] [Server thread/INFO]: [Not Secure] <marinette4507> necesitas la noche?
+[02:11:50] [Server thread/INFO]: [Not Secure] <marinette4507> va nada skhdfjk
+[02:11:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> djsgbsdb
+[02:12:05] [Server thread/INFO]: [Not Secure] <Yazuuxs> ando buscando cofres hundidos
+[02:12:51] [Server thread/INFO]: Aidamm[/172.29.182.214:51286] logged in with entity id 9349 at (-2.5, 77.0, 0.5)
+[02:12:51] [Server thread/INFO]: Aidamm joined the game
+[02:38:45] [Server thread/INFO]: [Not Secure] <Aidamm> hola
+[02:38:49] [Server thread/INFO]: [Not Secure] <Yazuuxs> Hola
+[02:39:02] [Server thread/INFO]: [Not Secure] <marinette4507> pense que estabas con andres xd
+[02:39:03] [Server thread/INFO]: [Not Secure] <marinette4507> hola
+[02:39:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> te lo encontraste?
