@@ -1,116 +1,25 @@
-[01:49:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:49:36] [ServerMain/INFO]: Loaded 1337 recipes
-[01:49:36] [ServerMain/INFO]: Loaded 1448 advancements
-[01:49:36] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:49:36] [Server thread/INFO]: Loading properties
-[01:49:36] [Server thread/INFO]: Default game type: SURVIVAL
-[01:49:36] [Server thread/INFO]: Generating keypair
-[01:49:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:49:36] [Server thread/INFO]: Using epoll channel type
-[01:49:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:49:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:49:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:49:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:49:36] [Server thread/INFO]: Preparing level "world"
-[01:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:49:42] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[01:49:42] [Server thread/INFO]: Time elapsed: 5408 ms
-[01:49:42] [Server thread/INFO]: Done (5.759s)! For help, type "help"
-[01:50:39] [Server thread/INFO]: Yazuuxs[/172.29.245.172:59030] logged in with entity id 8 at (-594.2733836009262, 70.0, -359.71791973615086)
-[01:50:39] [Server thread/INFO]: Yazuuxs joined the game
-[01:51:25] [Server thread/INFO]: marinette4507[/172.29.35.46:53357] logged in with entity id 416 at (-1066.2363888640214, -43.0, -1005.3000000119209)
-[01:51:25] [Server thread/INFO]: marinette4507 joined the game
-[01:51:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> matate
-[01:51:52] [Server thread/INFO]: [Not Secure] <marinette4507> morite
-[02:11:36] [Server thread/INFO]: [Not Secure] <marinette4507> necesitas la noche?
-[02:11:50] [Server thread/INFO]: [Not Secure] <marinette4507> va nada skhdfjk
-[02:11:58] [Server thread/INFO]: [Not Secure] <Yazuuxs> djsgbsdb
-[02:12:05] [Server thread/INFO]: [Not Secure] <Yazuuxs> ando buscando cofres hundidos
-[02:12:51] [Server thread/INFO]: Aidamm[/172.29.182.214:51286] logged in with entity id 9349 at (-2.5, 77.0, 0.5)
-[02:12:51] [Server thread/INFO]: Aidamm joined the game
-[02:38:45] [Server thread/INFO]: [Not Secure] <Aidamm> hola
-[02:38:49] [Server thread/INFO]: [Not Secure] <Yazuuxs> Hola
-[02:39:02] [Server thread/INFO]: [Not Secure] <marinette4507> pense que estabas con andres xd
-[02:39:03] [Server thread/INFO]: [Not Secure] <marinette4507> hola
-[02:39:31] [Server thread/INFO]: [Not Secure] <Yazuuxs> te lo encontraste?
-[02:39:38] [Server thread/INFO]: [Not Secure] <marinette4507> ando en cueva
-[02:39:50] [Server thread/INFO]: [Not Secure] <Yazuuxs> yo estoy cerca del spawn
-[02:39:53] [Server thread/INFO]: [Not Secure] <Yazuuxs> creo q al lado
-[02:39:56] [Server thread/INFO]: [Not Secure] <marinette4507> no si no que pense que estaba con vos por que no hablaban xd
-[02:39:57] [Server thread/INFO]: [Not Secure] <Yazuuxs> ahi me llevo el mapa
-[02:39:59] [Server thread/INFO]: [Not Secure] <Aidamm> porq andres
-[02:40:27] [Server thread/INFO]: [Not Secure] <marinette4507> qsy ellos se juntan para hacer sus granjas
-[02:40:35] [Server thread/INFO]: [Not Secure] <Yazuuxs> vos te aislas
-[02:40:38] [Server thread/INFO]: [Not Secure] <Yazuuxs> no es q nos juntamos
-[02:40:47] [Server thread/INFO]: [Not Secure] <marinette4507> no me aislo xd
-[02:40:48] [Server thread/INFO]: [Not Secure] <Aidamm> porq yo toy solo
-[02:41:07] [Server thread/INFO]: [Not Secure] <marinette4507> jose entiende la vibra
-[02:41:19] [Server thread/INFO]: [Not Secure] <Yazuuxs> vibra lgtb
-[02:41:26] [Server thread/INFO]: [Not Secure] <marinette4507> la tuya
-[02:41:54] [Server thread/INFO]: [Not Secure] <marinette4507> jose
-[02:42:00] [Server thread/INFO]: [Not Secure] <marinette4507> tenes discord?
-[02:42:16] [Server thread/INFO]: [Not Secure] <Yazuuxs> llamada?
-[02:42:25] [Server thread/INFO]: [Not Secure] <Yazuuxs> no pregunte por q pense q te ayeyarias
-[02:42:52] [Server thread/INFO]: [Not Secure] <marinette4507> no me ayeyo
-[02:43:00] [Server thread/INFO]: [Not Secure] <marinette4507> yo me entero tarde que andan en llamda kasjdfhka
-[02:43:06] [Server thread/INFO]: [Not Secure] <marinette4507> jose responde
-[02:43:42] [Server thread/INFO]: [Not Secure] <Yazuuxs> ahi hago llamda
-[02:43:48] [Server thread/INFO]: [Not Secure] <Yazuuxs> para q si me quedo afk aca me violan
-[02:44:16] [Server thread/INFO]: [Not Secure] <marinette4507> inicio llamda tonces
-[02:44:18] [Server thread/INFO]: [Not Secure] <marinette4507> joseee
-[02:44:24] [Server thread/INFO]: [Not Secure] <marinette4507> descargate discord
-[02:44:24] [Server thread/INFO]: [Not Secure] <Yazuuxs> si
-[02:45:23] [Server thread/INFO]: [Not Secure] <Aidamm> me perdi
-[02:45:33] [Server thread/INFO]: [Not Secure] <Aidamm> q paso
-[02:45:59] [Server thread/INFO]: [Not Secure] <marinette4507> discord pendejo
-[02:46:04] [Server thread/INFO]: [Not Secure] <marinette4507> tenes?
-[02:46:06] [Server thread/INFO]: [Not Secure] <Yazuuxs> llmda
-[02:46:41] [Server thread/INFO]: [Not Secure] <Aidamm> los dos
-[02:46:49] [Server thread/INFO]: [Not Secure] <Aidamm> quien es yazu
-[02:46:59] [Server thread/INFO]: [Not Secure] <marinette4507> andres xd
-[02:47:10] [Server thread/INFO]: [Not Secure] <Yazuuxs> soy yo
-[02:48:55] [Server thread/INFO]: [Not Secure] <marinette4507> tenes discord jose?
-[02:49:01] [Server thread/INFO]: [Not Secure] <Aidamm> si
-[02:52:40] [Server thread/INFO]: [Not Secure] <Yazuuxs> pasa discord jose
-[02:52:45] [Server thread/INFO]: [Not Secure] <Yazuuxs> por whap
-[02:59:51] [Server thread/INFO]: [Not Secure] <Aidamm> wsp
-[02:59:57] [Server thread/INFO]: [Not Secure] <Yazuuxs> si
-[03:03:06] [Server thread/INFO]: [Not Secure] <Aidamm> llamen
-[03:03:13] [Server thread/INFO]: [Not Secure] <Yazuuxs> noo
-[03:03:13] [Server thread/INFO]: [Not Secure] <marinette4507> discord?
-[03:03:15] [Server thread/INFO]: Aidamm has made the advancement [Monster Hunter]
-[03:03:16] [Server thread/INFO]: [Not Secure] <Yazuuxs> por discord
-[03:03:19] [Server thread/INFO]: Aidamm was slain by Zombie
-[03:06:21] [Server thread/INFO]: [Not Secure] <Aidamm> mori
-[03:06:27] [Server thread/INFO]: [Not Secure] <Aidamm> q triste
-[03:06:27] [Server thread/INFO]: [Not Secure] <Yazuuxs> qepd
-[03:06:57] [Server thread/INFO]: [Not Secure] <Aidamm> esq me estan hablando po wsp
-[03:09:33] [Server thread/INFO]: [Not Secure] <Aidamm> y la llamada
-[03:09:42] [Server thread/INFO]: [Not Secure] <Yazuuxs> por discord pe
-[03:09:44] [Server thread/INFO]: [Not Secure] <Yazuuxs> pada discord
-[03:09:47] [Server thread/INFO]: [Not Secure] <Yazuuxs> pasa jdfgbsdb
-[03:10:09] [Server thread/INFO]: [Not Secure] <Aidamm> aaaah
-[03:10:15] [Server thread/INFO]: [Not Secure] <Aidamm> bueno
-[03:14:20] [Server thread/INFO]: [Not Secure] <Aidamm> vanquen
-[03:14:36] [Server thread/INFO]: [Not Secure] <Aidamm> despues te cuenteo andres jajajjaja
-[03:14:41] [Server thread/INFO]: [Not Secure] <Yazuuxs> qqqq
-[03:14:43] [Server thread/INFO]: [Not Secure] <Yazuuxs> ta bien
-[03:14:46] [Server thread/INFO]: [Not Secure] <Aidamm> la pucha todo
-[03:14:55] [Server thread/INFO]: Aidamm lost connection: Disconnected
-[03:14:55] [Server thread/INFO]: Aidamm left the game
-[03:36:09] [Server thread/INFO]: marinette4507 has made the advancement [Cover Me with Diamonds]
-[04:53:28] [Server thread/INFO]: Yazuuxs lost connection: Disconnected
-[04:53:28] [Server thread/INFO]: Yazuuxs left the game
-[04:56:08] [Server thread/INFO]: marinette4507 has made the advancement [Best Friends Forever]
-[05:02:25] [Server thread/INFO]: marinette4507 lost connection: Disconnected
-[05:02:25] [Server thread/INFO]: marinette4507 left the game
+[03:32:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:32:50] [ServerMain/INFO]: Loaded 1337 recipes
+[03:32:50] [ServerMain/INFO]: Loaded 1448 advancements
+[03:32:50] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:32:50] [Server thread/INFO]: Loading properties
+[03:32:50] [Server thread/INFO]: Default game type: SURVIVAL
+[03:32:50] [Server thread/INFO]: Generating keypair
+[03:32:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:32:50] [Server thread/INFO]: Using epoll channel type
+[03:32:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:32:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:32:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:32:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:32:50] [Server thread/INFO]: Preparing level "world"
+[03:32:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:32:53] [Server thread/INFO]: Time elapsed: 2529 ms
+[03:32:53] [Server thread/INFO]: Done (2.778s)! For help, type "help"
+[03:33:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:34:31] [Server thread/INFO]: Yazuuxs[/172.29.245.172:50964] logged in with entity id 51 at (-609.9517865158786, 64.0, -375.11003968879294)
+[03:34:31] [Server thread/INFO]: Yazuuxs joined the game
