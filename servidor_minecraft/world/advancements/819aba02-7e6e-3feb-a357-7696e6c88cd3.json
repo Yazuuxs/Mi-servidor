@@ -2781,12 +2781,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-07-09 04:38:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-07-09 04:36:33 +0000"
@@ -2799,15 +2793,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_packed_ice": "2025-07-09 04:51:40 +0000"
+      "has_ender_eye": "2025-07-09 04:38:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-09 04:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-09 04:51:40 +0000"
     },
     "done": true
   },
