@@ -32,3 +32,8 @@
 [04:25:37] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
 [04:35:57] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
 [04:38:36] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
+[04:44:10] [Server thread/INFO]: [Not Secure] <Yazuuxs> -2300 -500
+[05:00:14] [Server thread/INFO]: [Yazuuxs: Teleported Yazuuxs to DemianWeinZ]
+[05:01:17] [Server thread/INFO]: DemianWeinZ lost connection: Timed out
+[05:01:17] [Server thread/INFO]: DemianWeinZ left the game
+[05:01:17] [Server thread/WARN]: handleDisconnection() called twice
