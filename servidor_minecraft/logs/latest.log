@@ -29,3 +29,6 @@
 [22:49:18] [Server thread/INFO]: [Not Secure] <Yazuuxs> -903 -830
 [22:54:45] [Server thread/INFO]: [Yazuuxs: Gave 9 [Acacia Log] to Yazuuxs]
 [22:56:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> -919 -856
+[22:59:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-911, y=21, z=-855} jh{x=-910, y=22, z=-855}
+[23:00:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-950, y=24, z=-871} jh{x=-948, y=21, z=-876}
+[23:00:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-955, y=21, z=-863} jh{x=-955, y=22, z=-860}
