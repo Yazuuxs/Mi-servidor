@@ -1,48 +1,29 @@
-[22:36:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:36:28] [ServerMain/INFO]: Loaded 1337 recipes
-[22:36:28] [ServerMain/INFO]: Loaded 1448 advancements
-[22:36:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[22:36:28] [Server thread/INFO]: Loading properties
-[22:36:28] [Server thread/INFO]: Default game type: SURVIVAL
-[22:36:28] [Server thread/INFO]: Generating keypair
-[22:36:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:36:28] [Server thread/INFO]: Using epoll channel type
-[22:36:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:36:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:36:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:36:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:36:28] [Server thread/INFO]: Preparing level "world"
-[22:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 14%
-[22:36:33] [Server thread/INFO]: Time elapsed: 4489 ms
-[22:36:33] [Server thread/INFO]: Done (4.732s)! For help, type "help"
-[22:37:06] [Server thread/INFO]: Yazuuxs[/172.29.245.172:50547] logged in with entity id 51 at (-852.5405406709151, 58.0, -798.6921332796079)
-[22:37:06] [Server thread/INFO]: Yazuuxs joined the game
-[22:49:18] [Server thread/INFO]: [Not Secure] <Yazuuxs> -903 -830
-[22:54:45] [Server thread/INFO]: [Yazuuxs: Gave 9 [Acacia Log] to Yazuuxs]
-[22:56:00] [Server thread/INFO]: [Not Secure] <Yazuuxs> -919 -856
-[22:59:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-911, y=21, z=-855} jh{x=-910, y=22, z=-855}
-[23:00:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-950, y=24, z=-871} jh{x=-948, y=21, z=-876}
-[23:00:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-955, y=21, z=-863} jh{x=-955, y=22, z=-860}
-[23:06:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-899, y=22, z=-876} jh{x=-890, y=23, z=-873}
-[23:11:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-910, y=24, z=-854} jh{x=-909, y=23, z=-849}
-[23:11:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-886, y=23, z=-849} jh{x=-884, y=24, z=-852}
-[23:13:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-878, y=29, z=-852} jh{x=-883, y=24, z=-837}
-[23:14:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-907, y=22, z=-837} jh{x=-916, y=23, z=-837}
-[23:15:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-908, y=19, z=-823} jh{x=-902, y=16, z=-838}
-[23:16:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-902, y=15, z=-830} jh{x=-897, y=16, z=-836}
-[23:16:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-893, y=18, z=-826} jh{x=-879, y=18, z=-842}
-[23:18:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-869, y=14, z=-846} jh{x=-866, y=12, z=-848}
-[23:18:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-855, y=11, z=-848} jh{x=-851, y=12, z=-848}
-[23:18:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-851, y=11, z=-848} jh{x=-848, y=12, z=-848}
-[23:21:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-897, y=28, z=-869} jh{x=-894, y=27, z=-876}
-[23:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-894, y=26, z=-889} jh{x=-894, y=27, z=-891}
-[23:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-899, y=27, z=-886} jh{x=-899, y=27, z=-893}
+[01:12:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:12:42] [ServerMain/INFO]: Loaded 1337 recipes
+[01:12:42] [ServerMain/INFO]: Loaded 1448 advancements
+[01:12:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:12:42] [Server thread/INFO]: Loading properties
+[01:12:42] [Server thread/INFO]: Default game type: SURVIVAL
+[01:12:42] [Server thread/INFO]: Generating keypair
+[01:12:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:12:42] [Server thread/INFO]: Using epoll channel type
+[01:12:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:12:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:12:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:12:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:12:42] [Server thread/INFO]: Preparing level "world"
+[01:12:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:46] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[01:12:47] [Server thread/INFO]: Time elapsed: 4414 ms
+[01:12:47] [Server thread/INFO]: Done (4.665s)! For help, type "help"
+[01:13:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:15:06] [Server thread/INFO]: Yazuuxs[/172.29.245.172:60886] logged in with entity id 51 at (-566.2629364617808, 68.0, -374.5870281810722)
+[01:15:06] [Server thread/INFO]: Yazuuxs joined the game
