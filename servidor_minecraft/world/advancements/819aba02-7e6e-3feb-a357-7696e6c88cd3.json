@@ -2938,6 +2938,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-14 05:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-07-14 05:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_grate": {
     "criteria": {
       "has_waxed_copper_block": "2025-07-14 04:34:44 +0000"
@@ -2980,6 +2992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-14 05:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/waxed_copper_bulb": {
     "criteria": {
       "has_waxed_copper_block": "2025-07-14 04:34:44 +0000"
@@ -3001,6 +3019,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-07-14 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-07-14 05:17:12 +0000"
     },
     "done": true
   },
